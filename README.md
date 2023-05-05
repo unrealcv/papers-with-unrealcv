@@ -27,7 +27,7 @@ When sending PRs, please put the new paper at the correct chronological position
 ```
 - **Paper Title** 
 *Author(s)* 
-Conference/Journal Year. [[Paper]](link) [[Code]](link) [[Website]](link)
+Conference/Journal Year. [[Paper](link)] [[Code](link)] [[Website](link)]
 ```
 
 ## <a name="semantic"></a> Semantic Understanding
@@ -62,7 +62,7 @@ Conference/Journal Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 ### <a name="activity"></a> Activity Recognition
 - **Identity Preserve Transform: Understand What Activity Classification Models Have Learnt**.
   *Jialing Lyu, Weichao Qiu, Xinyue Wei, Yi Zhang, Alan Yuille, Zheng-Jun Zha*.
-  CVPR 2020 Workshop. [[paper](https://arxiv.org/abs/1912.06314)]]
+  CVPR 2020 Workshop. [[paper](https://arxiv.org/abs/1912.06314)]
 
 
 ## <a name="3d-vision"></a> 3D Vision
@@ -83,6 +83,9 @@ Conference/Journal Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 - **Next-Best View Policy for 3D Reconstruction**.
   *Peralta, D., Casimiro, J., Nilles, A.M., Aguilar, J.A., Atienza, R., and Cajote, R*.
   ECCV Workshops 2020. [[paper](https://arxiv.org/abs/2008.12664)] [[code](https://github.com/darylperalta/ScanRL)]
+- **Path Planning for Active V-Slam Based on Reinforcement Learning**.
+  *Borui Li, Fuchun Sun, Huaping Liu, Bin Fang*.
+  International Conference on Cognitive Systems and Signal Processing 2019. [[paper](https://link.springer.com/chapter/10.1007/978-981-13-7986-4_42)]
 
 ### <a name="pose"></a> Pose Estimation
 - **A Unified Framework for Multi-View Multi-Class Object Pose Estimation**.
@@ -111,45 +114,51 @@ WACV 2022. [[paper](https://openaccess.thecvf.com/content/WACV2022W/RWS/papers/K
 - **Enhancing optical-flow-based control by learning visual appearance cues for flying robots**.
   *G. C. H. E. de Croon, C. De Wagter, T. Seidl*.
   Nature Machine Intelligence 2021. [[paper](https://www.nature.com/articles/s42256-020-00279-7)]
+- **An Improved Method Based on Deep Reinforcement Learning for Target Searching**.
+ *Xiao Long Wei, Xiang Lin Huang, Tao Lu, Ge Ge Song*.
+  International Conference on Robotics and Automation Engineering (ICRAE) 2019. [[paper](https://ieeexplore.ieee.org/abstract/document/9043821)]
+- **Training an Agent to Find and Reach an Object in Different Environments using Visual Reinforcement Learning and Transfer Learning**.
+ *Evelyn Conceição Santos Batista, Wouter Caarls, Leonardo A. Forero, Marco Aurélio C. Pacheco*.
+ ICAART 2021. [[paper](https://www.scitepress.org/PublishedPapers/2021/102368/102368.pdf)]
 
 ## <a name="active-tracking"></a> Active Object Tracking
 - **End-to-end Active Object Tracking via Reinforcement Learning**.
 *Wenhan Luo\*, Peng Sun\*, Fangwei Zhong, Wei Liu, Tong Zhang, Yizhou Wang*. 
-ICML 2018. [[Paper]](http://proceedings.mlr.press/v80/luo18a/luo18a.pdf) [[Website]](https://sites.google.com/site/whluoimperial/active_tracking_icml2018)
+ICML 2018. [[Paper](http://proceedings.mlr.press/v80/luo18a/luo18a.pdf)] [[Website]](https://sites.google.com/site/whluoimperial/active_tracking_icml2018)
 
 - **End-to-end Active Object Tracking and Its Real-world Deployment via Reinforcement Learning**. 
 *Wenhan Luo\*, Peng Sun\*, Fangwei Zhong\*, Wei Liu, Tong Zhang, Yizhou Wang*.
-IEEE TPAMI 2019. [[Paper]](https://arxiv.org/pdf/1808.03405.pdf) [[Website]](https://sites.google.com/site/whluoimperial/active_tracking_icml2018)
+IEEE TPAMI 2019. [[Paper](https://arxiv.org/pdf/1808.03405.pdf)] [[Website]](https://sites.google.com/site/whluoimperial/active_tracking_icml2018)
 
 - **AD-VAT: An Asymmetric Dueling mechanism for learning Visual Active Tracking**.
 *Fangwei Zhong, Wenhan Luo, Peng Sun, Tingyun Yan, Yizhou Wang*.
-ICLR 2019. [[Paper]](https://openreview.net/pdf?id=HkgYmhR9KX) [[Code]](https://github.com/zfw1226/active_tracking_rl)
+ICLR 2019. [[Paper](https://openreview.net/pdf?id=HkgYmhR9KX)] [[Code]](https://github.com/zfw1226/active_tracking_rl)
 
 - **AD-VAT+: An Asymmetric Dueling Mechanism for Learning and Understanding Visual Active Tracking**.
 *Fangwei Zhong, Wenhan Luo, Peng Sun, Tingyun Yan, Yizhou Wang*.
-IEEE TPAMI 2019. [[Paper]](https://ieeexplore.ieee.org/abstract/document/8896000) [[Code]](https://github.com/zfw1226/active_tracking_rl)
+IEEE TPAMI 2019. [[Paper](https://ieeexplore.ieee.org/abstract/document/8896000)] [[Code]](https://github.com/zfw1226/active_tracking_rl)
 
 - **Pose-Assisted Multi-Camera Collaboration for Active Object Tracking**.
 *Jing Li\*, Jing Xu\*, Fangwei Zhong\*, Xiangyu Kong, Yu Qiao, Yizhou Wang*.
-AAAI 2020. [[Paper]](https://arxiv.org/pdf/2001.05161.pdf) [[Code]](https://github.com/LilJing/pose-assisted-collaboration)
+AAAI 2020. [[Paper](https://arxiv.org/pdf/2001.05161.pdf)] [[Code]](https://github.com/LilJing/pose-assisted-collaboration)
 
 - **Towards Distraction-Robust Active Visual Tracking**.
 *Fangwei Zhong, Wenhan Luo, Peng Sun, Tingyun Yan, Yizhou Wang*.
-ICML 2021. [[Paper]](https://arxiv.org/abs/2106.10110) [[Code]](https://github.com/zfw1226/active_tracking_rl/tree/distractor) [[Website]](https://sites.google.com/view/distraction-robust-avt)
+ICML 2021. [[Paper](https://arxiv.org/abs/2106.10110)] [[Code]](https://github.com/zfw1226/active_tracking_rl/tree/distractor) [[Website]](https://sites.google.com/view/distraction-robust-avt)
 
 - **Anti-Distractor Active Object Tracking in 3D Environments**.
 *Mao Xi, Yun Zhou, Zheng Chen, Wengang Zhou, Houqiang Li*.
-IEEE TCSVT 2022. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9521193)
+IEEE TCSVT 2022. [[Paper](https://ieeexplore.ieee.org/abstract/document/9521193)]
 
 - **RSPT: Reconstruct Surroundings and Predict Trajectories for Generalizable Active Object Tracking**.
 *Fangwei Zhong\*, Xiao Bi\*, Yudi Zhang, Wei Zhang, Yizhou Wang*.
-AAAI 2023. [[Paper]](https://arxiv.org/pdf/2304.03623v1.pdf) [[Website]](https://sites.google.com/view/aot-rspt)
+AAAI 2023. [[Paper](https://arxiv.org/pdf/2304.03623v1.pdf)] [[Website]](https://sites.google.com/view/aot-rspt)
 
 ## <a name="multi-agent"></a> Multi-Agent Cooperation
 * **Pose-Assisted Multi-Camera Collaboration for Active Object Tracking**.
 *Jing Li\*, Jing Xu\*, Fangwei Zhong\*, Xiangyu Kong, Yu Qiao, Yizhou Wang*.
-AAAI 2020. [[Paper]](https://arxiv.org/pdf/2001.05161.pdf) [[Code]](https://github.com/LilJing/pose-assisted-collaboration)
+AAAI 2020. [[Paper](https://arxiv.org/pdf/2001.05161.pdf)] [[Code]](https://github.com/LilJing/pose-assisted-collaboration)
 
 - **Proactive Multi-Camera Collaboration for 3D Human Pose Estimation**.
 *Hai Ci\*, Mickel Liu\*, Xuehai Pan\*, Fangwei Zhong, Yizhou Wang*.
-ICLR 2023. [[Paper]](https://openreview.net/pdf?id=CPIy9TWFYBG) [[Website]](https://sites.google.com/view/active3dpose)
+ICLR 2023. [[Paper](https://openreview.net/pdf?id=CPIy9TWFYBG)] [[Website]](https://sites.google.com/view/active3dpose)
