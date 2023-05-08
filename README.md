@@ -100,6 +100,10 @@ When sending PRs, please put the new paper at the correct chronological position
   **Submodular Trajectory Optimization for Aerial 3D Scanning**.
   *Mike Roberts, Debadeepta Dey, Anh Truong, Sudipta Sinha, Shital Shah, Ashish Kapoor, Pat Hanrahan, Neel Joshi*.
   ICCV 2017. [[paper](https://arxiv.org/abs/1705.00703)] [[project](http://graphics.stanford.edu/papers/aerial_scanning/)]
+- 📊
+  **An Efficient Sampling-based Method for Online Informative Path Planning in Unknown Environments**.
+  *Lukas Schmid, Michael Pantic, Raghav Khanna, Lionel Ott, Roland Siegwart, Juan Nieto*.
+  IEEE Robotics and Automation Letters (RA-L) 2020. [[paper](https://arxiv.org/abs/1909.09548)] [[code](https://github.com/ethz-asl/mav_active_3d_planning)]
 - 🏃
   **Next-Best View Policy for 3D Reconstruction**.
   *Peralta, D., Casimiro, J., Nilles, A.M., Aguilar, J.A., Atienza, R., and Cajote, R*.
