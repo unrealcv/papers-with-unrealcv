@@ -148,6 +148,12 @@ When sending PRs, please put the new paper at the correct chronological position
   **Proactive Multi-Camera Collaboration for 3D Human Pose Estimation**.
   *Hai Ci\*, Mickel Liu\*, Xuehai Pan\*, Fangwei Zhong, Yizhou Wang*.
   ICLR 2023. [[paper](https://openreview.net/pdf?id=CPIy9TWFYBG)] [[project](https://sites.google.com/view/active3dpose)]
+  
+### <a name="pose"></a> Data Generation
+- 📊
+  **Local Light Field Fusion: Practical View Synthesis with Prescriptive Sampling Guidelines**.
+ *Ben Mildenhall, Pratul P. Srinivasan, Rodrigo Ortiz-Cayon, Nima Khademi Kalantari, Ravi Ramamoorthi, Ren Ng, Abhishek Kar*.
+  SIGGRAPH 2019. [[paper](https://arxiv.org/pdf/1905.00889.pdf)] [[project](https://bmild.github.io/llff/)]
 
 ## <a name="embodied-vision"></a> Embodied Vision
 
