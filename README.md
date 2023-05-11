@@ -95,6 +95,11 @@ When sending PRs, please put the new paper at the correct chronological position
   *G. C. H. E. de Croon, C. De Wagter, T. Seidl*.
   Nature Machine Intelligence 2021. [[paper](https://www.nature.com/articles/s42256-020-00279-7)]
 
+- 📊
+  **SMD-Nets: Stereo Mixture Density Networks**.
+  *Fabio Tosi, Yiyi Liao, Carolin Schmitt, Andreas Geiger*.
+  CVPR 2021. [[paper](https://arxiv.org/abs/2104.03866)][[code](https://github.com/fabiotosi92/SMD-Nets)]
+
 ### <a name="reconstruction"></a> Scene Reconstruction
 - 📊
   **Submodular Trajectory Optimization for Aerial 3D Scanning**.
