@@ -90,6 +90,11 @@ When sending PRs, please put the new paper at the correct chronological position
   *Yi Zhang, Weichao Qiu, Qi Chen, Xiaolin Hu, Alan Yuille*.
   3DV 2018. [[paper](https://arxiv.org/abs/1612.04647)] [[code](https://github.com/edz-o/unreal-stereo-evaluation)]
 
+- 📊
+  **ESIM: an Open Event Camera Simulator**.
+  *Henri Rebecq, Daniel Gehrig, Davide Scaramuzza*.
+  CoRL 2018. [[paper](https://rpg.ifi.uzh.ch/docs/CORL18_Rebecq.pdf)][[code](https://github.com/uzh-rpg/rpg_esim)]
+
 - 📊 🏃
   **Enhancing optical-flow-based control by learning visual appearance cues for flying robots**.
   *G. C. H. E. de Croon, C. De Wagter, T. Seidl*.
