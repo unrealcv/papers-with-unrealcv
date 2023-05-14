@@ -43,6 +43,10 @@ When sending PRs, please put the new paper at the correct chronological position
 - 📊 **ScaleNet: Guiding Object Proposal Generation in Supermarkets and Beyond**.
    *Siyuan Qiao, Wei Shen, Weichao Qiu, Chenxi Liu, Alan Yuille*. 
    ICCV 2017. [[paper](https://arxiv.org/abs/1704.06752)] [[code](https://github.com/joe-siyuan-qiao/SupermarketPlugin-AutoShuffleWindow)]
+
+- 📊 **A Framework for Self-Training Perceptual Agents in Simulated Photorealistic Environments**.
+   *Patrick Mania, Michael Beetz*. 
+   ICRA 2019. [[paper](https://ai.uni-bremen.de/papers/mania19scenarios.pdf)] [[code](https://github.com/code-iai/ROSIntegration)]
    
 - 📊
   **Semantic Part Detection via Matching: Learning to Generalize to Novel Viewpoints from Limited Training Data**.
@@ -94,6 +98,11 @@ When sending PRs, please put the new paper at the correct chronological position
   **ESIM: an Open Event Camera Simulator**.
   *Henri Rebecq, Daniel Gehrig, Davide Scaramuzza*.
   CoRL 2018. [[paper](https://rpg.ifi.uzh.ch/docs/CORL18_Rebecq.pdf)][[code](https://github.com/uzh-rpg/rpg_esim)]
+
+- 📊
+  **Coupled Real-Synthetic Domain Adaptation for Real-World Deep Depth Enhancement**.
+  *Xiao Gu, Yao Guo, Fani Deligianni, Guang-Zhong Yang*.
+  IEEE Transactions on Image Processing (TIP) 2020. [[paper](https://eprints.gla.ac.uk/214086/1/214086.pdf?ref=https://githubhelp.com)]
 
 - 📊 🏃
   **Enhancing optical-flow-based control by learning visual appearance cues for flying robots**.
