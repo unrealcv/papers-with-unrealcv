@@ -119,12 +119,6 @@ When sending PRs, please put the new paper at the correct chronological position
   **Submodular Trajectory Optimization for Aerial 3D Scanning**.
   *Mike Roberts, Debadeepta Dey, Anh Truong, Sudipta Sinha, Shital Shah, Ashish Kapoor, Pat Hanrahan, Neel Joshi*.
   ICCV 2017. [[paper](https://arxiv.org/abs/1705.00703)] [[project](http://graphics.stanford.edu/papers/aerial_scanning/)]
-
-- 📊
-  **UnrealNavigation: Simulation Software for testing SLAM in Virtual Reality**.
-  *Anne M. Bettens, Benjamin Morrell, Mauricio Coen, Neil McHenry, Xiaofeng Wu, Peter Gibbens, Gregory Chamitoff*.
-  AIAA Scitech 2020 Forum. [[paper](https://d1wqtxts1xzle7.cloudfront.net/64442367/SciTechpublishedPDF-libre.pdf?1600216186=&response-content-disposition=inline%3B+filename%3DUnrealNavigation_Simulation_Software_for.pdf&Expires=1684139988&Signature=gQMHKfJRXlapCj1BCktlIBm28T6r0k7Y3jHn8QStR92vqr32U5-Ft-kJ3AHr2tNNlCK01XD2D9HKyIffiLb95UFVia2aD3mggV~i1bF8jobjgcv9r1ICvUz93C0upYsAiEhf0l60dva-fBbSEMFttL~RhrxtfAcLJAzj65gEFm66Okww36CAtijf7C2GiDsKO9KEfxk7scH1EvIx5zTwURcZcdzvGmQ~wNG0uBuIGRcbfZb5L-JQq8hGqOHwj9Jeorr4vj45XSIJsGjzpfAIH7Ij5Fvz5UKJhfonLWvRmcoganLwp1ub1vKpFT0vIKb9bVJRTA2o8G~e0J6x2bax8A__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)] [[code](https://github.com/maucoen/UnrealNavigation)]
-  
 - 📊
   **GEN-SLAM: Generative Modeling for Monocular Simultaneous Localization and Mapping**.
   *Punarjay Chakravarty, Praveen Narayanan, Tom Roussel*.
@@ -133,6 +127,14 @@ When sending PRs, please put the new paper at the correct chronological position
   **QuadricSLAM: Dual Quadrics from Object Detections as Landmarks in Object-oriented SLAM**.
   *Lachlan Nicholson, Michael Milford, Niko Sünderhauf*.
   IEEE Robotics and Automation Letters (RA-L) 2019. [[paper](https://arxiv.org/abs/1804.04011)]
+- 🏃
+  **Path Planning for Active V-Slam Based on Reinforcement Learning**.
+  *Borui Li, Fuchun Sun, Huaping Liu, Bin Fang*.
+  International Conference on Cognitive Systems and Signal Processing 2019. [[paper](https://link.springer.com/chapter/10.1007/978-981-13-7986-4_42)]
+- 📊
+  **UnrealNavigation: Simulation Software for testing SLAM in Virtual Reality**.
+  *Anne M. Bettens, Benjamin Morrell, Mauricio Coen, Neil McHenry, Xiaofeng Wu, Peter Gibbens, Gregory Chamitoff*.
+  AIAA Scitech 2020 Forum. [[paper](https://d1wqtxts1xzle7.cloudfront.net/64442367/SciTechpublishedPDF-libre.pdf?1600216186=&response-content-disposition=inline%3B+filename%3DUnrealNavigation_Simulation_Software_for.pdf&Expires=1684139988&Signature=gQMHKfJRXlapCj1BCktlIBm28T6r0k7Y3jHn8QStR92vqr32U5-Ft-kJ3AHr2tNNlCK01XD2D9HKyIffiLb95UFVia2aD3mggV~i1bF8jobjgcv9r1ICvUz93C0upYsAiEhf0l60dva-fBbSEMFttL~RhrxtfAcLJAzj65gEFm66Okww36CAtijf7C2GiDsKO9KEfxk7scH1EvIx5zTwURcZcdzvGmQ~wNG0uBuIGRcbfZb5L-JQq8hGqOHwj9Jeorr4vj45XSIJsGjzpfAIH7Ij5Fvz5UKJhfonLWvRmcoganLwp1ub1vKpFT0vIKb9bVJRTA2o8G~e0J6x2bax8A__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)] [[code](https://github.com/maucoen/UnrealNavigation)]
 - 📊
   **An Efficient Sampling-based Method for Online Informative Path Planning in Unknown Environments**.
   *Lukas Schmid, Michael Pantic, Raghav Khanna, Lionel Ott, Roland Siegwart, Juan Nieto*.
@@ -141,10 +143,6 @@ When sending PRs, please put the new paper at the correct chronological position
   **Next-Best View Policy for 3D Reconstruction**.
   *Peralta, D., Casimiro, J., Nilles, A.M., Aguilar, J.A., Atienza, R., and Cajote, R*.
   ECCV Workshops 2020. [[paper](https://arxiv.org/abs/2008.12664)] [[code](https://github.com/darylperalta/ScanRL)]
-- 🏃
-  **Path Planning for Active V-Slam Based on Reinforcement Learning**.
-  *Borui Li, Fuchun Sun, Huaping Liu, Bin Fang*.
-  International Conference on Cognitive Systems and Signal Processing 2019. [[paper](https://link.springer.com/chapter/10.1007/978-981-13-7986-4_42)]
 - 📊
   **Flight Planning for Survey-Grade 3D Reconstruction of Truss Bridges**.
   *Zhexiong Shang, Zhigang Shen*.
