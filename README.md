@@ -120,6 +120,10 @@ When sending PRs, please put the new paper at the correct chronological position
   *Mike Roberts, Debadeepta Dey, Anh Truong, Sudipta Sinha, Shital Shah, Ashish Kapoor, Pat Hanrahan, Neel Joshi*.
   ICCV 2017. [[paper](https://arxiv.org/abs/1705.00703)] [[project](http://graphics.stanford.edu/papers/aerial_scanning/)]
 - 📊
+  **GEN-SLAM: Generative Modeling for Monocular Simultaneous Localization and Mapping**.
+  *Punarjay Chakravarty, Praveen Narayanan, Tom Roussel*.
+  ICRA 2019. [[paper](https://arxiv.org/abs/1902.02086)]
+- 📊
   **QuadricSLAM: Dual Quadrics from Object Detections as Landmarks in Object-oriented SLAM**.
   *Lachlan Nicholson, Michael Milford, Niko Sünderhauf*.
   IEEE Robotics and Automation Letters (RA-L) 2019. [[paper](https://arxiv.org/abs/1804.04011)]
@@ -135,6 +139,10 @@ When sending PRs, please put the new paper at the correct chronological position
   **Path Planning for Active V-Slam Based on Reinforcement Learning**.
   *Borui Li, Fuchun Sun, Huaping Liu, Bin Fang*.
   International Conference on Cognitive Systems and Signal Processing 2019. [[paper](https://link.springer.com/chapter/10.1007/978-981-13-7986-4_42)]
+- 📊
+  **Flight Planning for Survey-Grade 3D Reconstruction of Truss Bridges**.
+  *Zhexiong Shang, Zhigang Shen*.
+  Remote Sens. 2022. [[paper](https://media.proquest.com/media/hms/PFT/1/tOKXN?\_s=yu6mwpQ2fuY%2BexqDsccYLAjHKWI%3D)]
 
 ### <a name="pose"></a> Pose Estimation
 - 📊
