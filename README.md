@@ -134,7 +134,7 @@ When sending PRs, please put the new paper at the correct chronological position
 - 📊
   **UnrealNavigation: Simulation Software for testing SLAM in Virtual Reality**.
   *Anne M. Bettens, Benjamin Morrell, Mauricio Coen, Neil McHenry, Xiaofeng Wu, Peter Gibbens, Gregory Chamitoff*.
-  AIAA Scitech 2020 Forum. [[paper](https://d1wqtxts1xzle7.cloudfront.net/64442367/SciTechpublishedPDF-libre.pdf?1600216186=&response-content-disposition=inline%3B+filename%3DUnrealNavigation_Simulation_Software_for.pdf&Expires=1684139988&Signature=gQMHKfJRXlapCj1BCktlIBm28T6r0k7Y3jHn8QStR92vqr32U5-Ft-kJ3AHr2tNNlCK01XD2D9HKyIffiLb95UFVia2aD3mggV~i1bF8jobjgcv9r1ICvUz93C0upYsAiEhf0l60dva-fBbSEMFttL~RhrxtfAcLJAzj65gEFm66Okww36CAtijf7C2GiDsKO9KEfxk7scH1EvIx5zTwURcZcdzvGmQ~wNG0uBuIGRcbfZb5L-JQq8hGqOHwj9Jeorr4vj45XSIJsGjzpfAIH7Ij5Fvz5UKJhfonLWvRmcoganLwp1ub1vKpFT0vIKb9bVJRTA2o8G~e0J6x2bax8A__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)] [[code](https://github.com/maucoen/UnrealNavigation)]
+  AIAA Scitech 2020 Forum. [[paper](https://d1wqtxts1xzle7.cloudfront.net/64442367/SciTechpublishedPDF-libre.pdf?1600216186=&response-content-disposition=inline%3B+filename%3DUnrealNavigation_Simulation_Software_for.pdf&Expires=1684754646&Signature=Y52JIICq~fwtHAk25SSf1PJTEee3WsdJqNp6yjk-iTydirZA9bfc3PHZnEdkzXc3CyIdcmarkkOVDsVQIpR6uuDEgeBRXyXHYfr6pkTguzggdajUaF8PFx3EFA1M3LlnL6LvbzLP5TV9Mzm3mX1eOdA52r7tYz94Z7-9isMiKnWBbHpbxF8Yq7v444NEZjbbz1aZFN1I0fvtcJerWHtn-Sqz5lpL6jjx0PP3S2PX4t96XCXjFBOhrgTMs~7-K4HTZceOw2it5hULEPy92ar6Nt5~6fwHmH73BFuo1tj1OypaWmK125z5~duOCK~G~EYmKxK0Xp8EtfzteJ0XBmHXJg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)] [[code](https://github.com/maucoen/UnrealNavigation)]
 - 📊
   **An Efficient Sampling-based Method for Online Informative Path Planning in Unknown Environments**.
   *Lukas Schmid, Michael Pantic, Raghav Khanna, Lionel Ott, Roland Siegwart, Juan Nieto*.
@@ -146,7 +146,7 @@ When sending PRs, please put the new paper at the correct chronological position
 - 📊
   **Flight Planning for Survey-Grade 3D Reconstruction of Truss Bridges**.
   *Zhexiong Shang, Zhigang Shen*.
-  Remote Sens. 2022. [[paper](https://media.proquest.com/media/hms/PFT/1/tOKXN?\_s=yu6mwpQ2fuY%2BexqDsccYLAjHKWI%3D)]
+  Remote Sens. 2022. [[paper](https://www.mdpi.com/2072-4292/14/13/3200)]
 
 ### <a name="pose"></a> Pose Estimation
 - 📊
