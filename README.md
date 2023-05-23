@@ -71,7 +71,7 @@ When sending PRs, please put the new paper at the correct chronological position
 - 📊 
  **Synthetic-to-Real Unsupervised Domain Adaptation for Scene Text Detection in the Wild**.
  *Weijia Wu, Ning Lu, Enze Xie, Yuxing Wang, Wenwen Yu, Cheng Yang, Hong Zhou*.
- ACCV 2020. [[paper](https://openaccess.thecvf.com/content/ACCV2020/papers/Wu_Synthetic-to-Real_Unsupervised_Domain_Adaptation_for_Scene_Text_Detection_in_the_ACCV_2020_paper.pdf)] [[code](https://github.com/weijiawu/SyntoReal_STD)
+ ACCV 2020. [[paper](https://openaccess.thecvf.com/content/ACCV2020/papers/Wu_Synthetic-to-Real_Unsupervised_Domain_Adaptation_for_Scene_Text_Detection_in_the_ACCV_2020_paper.pdf)] [[code](https://github.com/weijiawu/SyntoReal_STD)]
 
 ### <a name="person-reid"></a> Person Re-identification
 - 📊
