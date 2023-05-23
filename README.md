@@ -134,7 +134,7 @@ When sending PRs, please put the new paper at the correct chronological position
 - 📊
   **UnrealNavigation: Simulation Software for testing SLAM in Virtual Reality**.
   *Anne M. Bettens, Benjamin Morrell, Mauricio Coen, Neil McHenry, Xiaofeng Wu, Peter Gibbens, Gregory Chamitoff*.
-  AIAA Scitech 2020 Forum. [[paper](https://d1wqtxts1xzle7.cloudfront.net/64442367/SciTechpublishedPDF-libre.pdf?1600216186=&response-content-disposition=inline%3B+filename%3DUnrealNavigation_Simulation_Software_for.pdf&Expires=1684754646&Signature=Y52JIICq~fwtHAk25SSf1PJTEee3WsdJqNp6yjk-iTydirZA9bfc3PHZnEdkzXc3CyIdcmarkkOVDsVQIpR6uuDEgeBRXyXHYfr6pkTguzggdajUaF8PFx3EFA1M3LlnL6LvbzLP5TV9Mzm3mX1eOdA52r7tYz94Z7-9isMiKnWBbHpbxF8Yq7v444NEZjbbz1aZFN1I0fvtcJerWHtn-Sqz5lpL6jjx0PP3S2PX4t96XCXjFBOhrgTMs~7-K4HTZceOw2it5hULEPy92ar6Nt5~6fwHmH73BFuo1tj1OypaWmK125z5~duOCK~G~EYmKxK0Xp8EtfzteJ0XBmHXJg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)] [[code](https://github.com/maucoen/UnrealNavigation)]
+  AIAA Scitech 2020 Forum. [[paper](https://www.researchgate.net/profile/Neil-Mchenry/publication/338398825_UnrealNavigation_Simulation_Software_for_testing_SLAM_in_Virtual_Reality/links/5f1b359f299bf1720d625b28/UnrealNavigation-Simulation-Software-for-testing-SLAM-in-Virtual-Reality.pdf)] [[code](https://github.com/maucoen/UnrealNavigation)]
 - 📊
   **An Efficient Sampling-based Method for Online Informative Path Planning in Unknown Environments**.
   *Lukas Schmid, Michael Pantic, Raghav Khanna, Lionel Ott, Roland Siegwart, Juan Nieto*.
