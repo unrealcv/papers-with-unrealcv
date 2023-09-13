@@ -84,8 +84,10 @@ When sending PRs, please put the new paper at the correct chronological position
   **Identity Preserve Transform: Understand What Activity Classification Models Have Learnt**.
   *Jialing Lyu, Weichao Qiu, Xinyue Wei, Yi Zhang, Alan Yuille, Zheng-Jun Zha*.
   CVPR 2020 Workshop. [[paper](https://arxiv.org/abs/1912.06314)]
-
-
+- 📊
+  **Active shooter detection and robust tracking utilizing supplemental synthetic data**.
+  *Joshua R. Waite, Jiale Feng, Riley Tavassoli, Laura Harris, Sin Yong Tan, Subhadeep Chakraborty, Soumik Sarkar*.
+  Arxiv 2023. [[paper](https://arxiv.org/abs/2309.03381)]
 ## <a name="3d-vision"></a> 3D Vision
 
 ### <a name="depth"></a> Depth Estimation
@@ -118,7 +120,7 @@ When sending PRs, please put the new paper at the correct chronological position
 - 📊
   **Submodular Trajectory Optimization for Aerial 3D Scanning**.
   *Mike Roberts, Debadeepta Dey, Anh Truong, Sudipta Sinha, Shital Shah, Ashish Kapoor, Pat Hanrahan, Neel Joshi*.
-  ICCV 2017. [[paper](https://arxiv.org/abs/1705.00703)] [[project](http://graphics.stanford.edu/papers/aerial_scanning/)]
+  ICCV 2017. [[paper](https://arxiv.org/abs/1705.00703) ] [[project](http://graphics.stanford.edu/papers/aerial_scanning/)]
 - 📊
   **GEN-SLAM: Generative Modeling for Monocular Simultaneous Localization and Mapping**.
   *Punarjay Chakravarty, Praveen Narayanan, Tom Roussel*.
@@ -147,6 +149,10 @@ When sending PRs, please put the new paper at the correct chronological position
   **Flight Planning for Survey-Grade 3D Reconstruction of Truss Bridges**.
   *Zhexiong Shang, Zhigang Shen*.
   Remote Sens. 2022. [[paper](https://www.mdpi.com/2072-4292/14/13/3200)]
+- 📊
+  **View Planning Using Discrete Optimization for 3D Reconstruction of Row Crops**.
+  *Athanasios Bacharis, Henry J. Nelson and Nikolaos Papanikolopoulos*.
+  IROS 2022. [[paper](https://ieeexplore.ieee.org/abstract/document/9981209)]
 
 ### <a name="pose"></a> Pose Estimation
 - 📊
@@ -183,12 +189,16 @@ When sending PRs, please put the new paper at the correct chronological position
   **Proactive Multi-Camera Collaboration for 3D Human Pose Estimation**.
   *Hai Ci\*, Mickel Liu\*, Xuehai Pan\*, Fangwei Zhong, Yizhou Wang*.
   ICLR 2023. [[paper](https://openreview.net/pdf?id=CPIy9TWFYBG)] [[project](https://sites.google.com/view/active3dpose)]
-  
-### <a name="pose"></a> Data Generation
+
+- 📊
+  **Monocular 3D Human Pose Estimation for Sports Broadcasts using Partial Sports Field Registration**.
+  *Tobias Baumgartner, Stefanie Klatt*. CVPR-W 2023. [[paper](https://openaccess.thecvf.com/content/CVPR2023W/CVSports/papers/Baumgartner_Monocular_3D_Human_Pose_Estimation_for_Sports_Broadcasts_Using_Partial_CVPRW_2023_paper.pdf) ] 
+  [[code](https://github.com/tobibaum/PartialSportsFieldReg_3DHPE)]
+### <a name="pose"></a> View Synthesis
 - 📊
   **Local Light Field Fusion: Practical View Synthesis with Prescriptive Sampling Guidelines**.
  *Ben Mildenhall, Pratul P. Srinivasan, Rodrigo Ortiz-Cayon, Nima Khademi Kalantari, Ravi Ramamoorthi, Ren Ng, Abhishek Kar*.
-  SIGGRAPH 2019. [[paper](https://arxiv.org/pdf/1905.00889.pdf)] [[project](https://bmild.github.io/llff/)]
+  SIGGRAPH 2019. [[paper](https://arxiv.org/pdf/1905.00889.pdf)][[project](https://bmild.github.io/llff/)]
 
 ## <a name="embodied-vision"></a> Embodied Vision
 
