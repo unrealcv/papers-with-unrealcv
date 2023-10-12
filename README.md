@@ -44,6 +44,10 @@ When sending PRs, please put the new paper at the correct chronological position
    *Siyuan Qiao, Wei Shen, Weichao Qiu, Chenxi Liu, Alan Yuille*. 
    ICCV 2017. [[paper](https://arxiv.org/abs/1704.06752)] [[code](https://github.com/joe-siyuan-qiao/SupermarketPlugin-AutoShuffleWindow)]
 
+- 📊 **Falling Things: A Synthetic Dataset for 3D Object Detection and Pose Estimation**.
+   *Tremblay, Jonathan, Thang To, and Stan Birchfield*. 
+   CVPR 2018 Workshop. [[paper](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w40/Tremblay_Falling_Things_A_CVPR_2018_paper.pdf)] [[code](https://research.nvidia.com/publication/2018-06_falling-things-synthetic-dataset-3d-object-detection-and-pose-estimation)]
+
 - 📊 **A Framework for Self-Training Perceptual Agents in Simulated Photorealistic Environments**.
    *Patrick Mania, Michael Beetz*. 
    ICRA 2019. [[paper](https://ai.uni-bremen.de/papers/mania19scenarios.pdf)] [[code](https://github.com/code-iai/ROSIntegration)]
