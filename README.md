@@ -120,6 +120,17 @@ When sending PRs, please put the new paper at the correct chronological position
   *Fabio Tosi, Yiyi Liao, Carolin Schmitt, Andreas Geiger*.
   CVPR 2021. [[paper](https://arxiv.org/abs/2104.03866)][[code](https://github.com/fabiotosi92/SMD-Nets)]
 
+- 📊
+  **G2-MonoDepth: A General Framework of Generalized Depth Inference from Monocular RGB+ X Data**.
+  *Haotian Wang, Meng Yang, Nanning Zheng*.
+  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2023. [[paper](https://ieeexplore.ieee.org/document/10373158)]
+
+- 📊 
+  **Learning Occluded Branch Depth Maps in Forest Environments Using RGB-D Images**
+  *Geckeler, C., Aucone, E., Schnider, Y., Simeon, A., von Bassewitz, J. P., Zhu, Y., & Mintchev, S.*
+    IEEE Robotics and Automation Letters (RA-L) 2024. [[paper](https://ieeexplore.ieee.org/document/10403997]
+
+
 ### <a name="reconstruction"></a> Scene Reconstruction
 - 📊
   **Submodular Trajectory Optimization for Aerial 3D Scanning**.
@@ -221,6 +232,10 @@ When sending PRs, please put the new paper at the correct chronological position
   **Enhancing optical-flow-based control by learning visual appearance cues for flying robots**.
   *G. C. H. E. de Croon, C. De Wagter, T. Seidl*.
   Nature Machine Intelligence 2021. [[paper](https://www.nature.com/articles/s42256-020-00279-7)]
+- 📊 🏃
+  **Simultaneous localization and mapping architecture for small bodies and space exploration.**.
+  *Bettens, A., Morrell, B., Coen, M., Wu, X., Gibbens, P., & Chamitoff, G.*.
+  Advances in Space Research 2024, 73(1), 1185-1197. [[paper](https://www.sciencedirect.com/science/article/pii/S0273117723008682)]
 
 ## <a name="active-tracking"></a> Active Object Tracking
 - 🏃 
