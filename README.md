@@ -83,6 +83,10 @@ When sending PRs, please put the new paper at the correct chronological position
   *Tianyu Zhang, Lingxi Xie, Longhui Wei, Zijie Zhuang, Yongfei Zhang, Bo Li, Qi Tian*.
   CVPR 2021. [[paper](https://arxiv.org/abs/2012.04268v2)] [[code](https://github.com/FlyHighest/UnrealPerson)]
 
+- 📊
+  **Robust Person Re-Identification with Wireless Signals**
+  *Xi, Dong, Wengang Zhou, and Houqiang Li*. ICME 2023. [[paper](https://ieeexplore.ieee.org/abstract/document/10219732)]
+
 ### <a name="activity"></a> Activity Recognition
 - 🔍
   **Identity Preserve Transform: Understand What Activity Classification Models Have Learnt**.
@@ -99,11 +103,6 @@ When sending PRs, please put the new paper at the correct chronological position
   **Unrealstereo: Controlling hazardous factors to analyze stereo vision**.
   *Yi Zhang, Weichao Qiu, Qi Chen, Xiaolin Hu, Alan Yuille*.
   3DV 2018. [[paper](https://arxiv.org/abs/1612.04647)] [[code](https://github.com/edz-o/unreal-stereo-evaluation)]
-
-- 📊
-  **ESIM: an Open Event Camera Simulator**.
-  *Henri Rebecq, Daniel Gehrig, Davide Scaramuzza*.
-  CoRL 2018. [[paper](https://rpg.ifi.uzh.ch/docs/CORL18_Rebecq.pdf)][[code](https://github.com/uzh-rpg/rpg_esim)]
 
 - 📊
   **Coupled Real-Synthetic Domain Adaptation for Real-World Deep Depth Enhancement**.
@@ -214,6 +213,18 @@ When sending PRs, please put the new paper at the correct chronological position
   **Local Light Field Fusion: Practical View Synthesis with Prescriptive Sampling Guidelines**.
  *Ben Mildenhall, Pratul P. Srinivasan, Rodrigo Ortiz-Cayon, Nima Khademi Kalantari, Ravi Ramamoorthi, Ren Ng, Abhishek Kar*.
   SIGGRAPH 2019. [[paper](https://arxiv.org/pdf/1905.00889.pdf)][[project](https://bmild.github.io/llff/)]
+
+### <a name="pose"></a> Event Camera
+- 📊
+  **ESIM: an Open Event Camera Simulator**.
+  *Henri Rebecq, Daniel Gehrig, Davide Scaramuzza*.
+  CoRL 2018. [[paper](https://rpg.ifi.uzh.ch/docs/CORL18_Rebecq.pdf)][[code](https://github.com/uzh-rpg/rpg_esim)]
+
+- 📊
+  **Insights into Batch Selection for Event-Camera Motion Estimation**.
+  *Valerdi, Juan L., Chiara Bartolozzi, and Arren Glover*.
+  Sensors 2023. [[paper](https://www.mdpi.com/1424-8220/23/7/3699)]
+
 
 ## <a name="embodied-vision"></a> Embodied Vision
 
