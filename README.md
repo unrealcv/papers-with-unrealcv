@@ -208,6 +208,12 @@ When sending PRs, please put the new paper at the correct chronological position
   **Monocular 3D Human Pose Estimation for Sports Broadcasts using Partial Sports Field Registration**.
   *Tobias Baumgartner, Stefanie Klatt*. CVPR-W 2023. [[paper](https://openaccess.thecvf.com/content/CVPR2023W/CVSports/papers/Baumgartner_Monocular_3D_Human_Pose_Estimation_for_Sports_Broadcasts_Using_Partial_CVPRW_2023_paper.pdf) ] 
   [[code](https://github.com/tobibaum/PartialSportsFieldReg_3DHPE)]
+
+- 📊 
+  **Hardware-accelerated Mars Sample Localization via Deep Transfer Learning from Photorealistic Simulations**
+  *R. Castilla-Arquillo, C. J. P ́erez-del-Pulgar, G. J. Paz-Delgado and L. Gerdes*
+  IEEE Robotics and Automation Letters 2022. [[paper](https://arxiv.org/abs/2206.02622)] [[code](https://github.com/spaceuma/MarsSampleLocalization)]
+
 ### <a name="pose"></a> View Synthesis
 - 📊
   **Local Light Field Fusion: Practical View Synthesis with Prescriptive Sampling Guidelines**.
