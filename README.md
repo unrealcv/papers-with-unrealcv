@@ -307,3 +307,13 @@ When sending PRs, please put the new paper at the correct chronological position
   **Proactive Multi-Camera Collaboration for 3D Human Pose Estimation**.
   *Hai Ci\*, Mickel Liu\*, Xuehai Pan\*, Fangwei Zhong, Yizhou Wang*.
   ICLR 2023. [[paper](https://openreview.net/pdf?id=CPIy9TWFYBG)] [[project](https://sites.google.com/view/active3dpose)]
+
+## <a name="Agricultural"></a> Agricultural/Plant Science
+- 📊
+  **A scalable pipeline to create synthetic datasets from functional–structural plant models for deep learning**.
+  *Dirk Norbert Baker, Felix Maximilian Bauer, Mona Giraud, Andrea Schnepf, Jens Henrik Göbbert, Hanno Scharr, Ebba Hvannberg, Morris Riedel*.
+  in silico Plants, 6(1), diad022. [[paper](https://academic.oup.com/insilicoplants/article/6/1/diad022/7462759)]
+- 📊
+  **Adapting Agricultural Virtual Environments in Game Engines to Improve HPC Accessibility**.
+  *Dirk Norbert Baker, Felix Bauer, Andrea Schnepf, Hanno Scharr, Morris Riedel, Jens Henrik Göbbert, Ebba Hvannberg*.
+  [[paper](https://opinvisindi.is/bitstream/handle/20.500.11815/4936/submission.pdf?sequence=1&isAllowed=y)]
