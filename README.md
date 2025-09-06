@@ -87,6 +87,11 @@ When sending PRs, please put the new paper at the correct chronological position
   **Robust Person Re-Identification with Wireless Signals**
   *Xi, Dong, Wengang Zhou, and Houqiang Li*. ICME 2023. [[paper](https://ieeexplore.ieee.org/abstract/document/10219732)]
 
+- 📊
+  **InfinitePerson: Innovating Synthetic Data Creation for Generalization Person Re-Identification**.
+  *YingGuoqing Zhang; Jin Li; Yuhui Zheng; Ruili Wang*.
+   IEEE Transactions on Circuits and Systems for Video Technology. [[paper](https://ieeexplore.ieee.org/abstract/document/10764763)] [[code](https://github.com/zhguoqing/InfinitePerson)]
+
 ### <a name="activity"></a> Activity Recognition
 - 🔍
   **Identity Preserve Transform: Understand What Activity Classification Models Have Learnt**.
