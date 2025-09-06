@@ -172,7 +172,14 @@ When sending PRs, please put the new paper at the correct chronological position
   **View Planning Using Discrete Optimization for 3D Reconstruction of Row Crops**.
   *Athanasios Bacharis, Henry J. Nelson and Nikolaos Papanikolopoulos*.
   IROS 2022. [[paper](https://ieeexplore.ieee.org/abstract/document/9981209)]
-
+- 📊
+  **YOWO: You Only Walk Once to Jointly Map an Indoor Scene and Register Ceiling-Mounted Cameras**.
+  *Fan Yang, Sosuke Yamao, Ikuo Kusajima, Atsunori Moteki, Shoichi Masui, Shan Jiang*
+  IEEE Transactions on Circuits and Systems for Video Technology, 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/10663468)]
+- 📊🏃
+  **Semantic-Driven Informed Planning and 3D Reconstruction for the Quadrotor Unmanned Aerial Vehicle**.
+  *Xiaotian Xu; Xuetao Zhang; Yisha Liu; Hanzhang Wang; Xuebo Zhang; Yan Zhuang*.
+   IEEE Transactions on Vehicular Technology, 2025. [[paper](https://ieeexplore.ieee.org/document/10740306)]
 ### <a name="pose"></a> Pose Estimation
 - 📊
   **A Unified Framework for Multi-View Multi-Class Object Pose Estimation**.
@@ -219,13 +226,13 @@ When sending PRs, please put the new paper at the correct chronological position
   *R. Castilla-Arquillo, C. J. P ́erez-del-Pulgar, G. J. Paz-Delgado and L. Gerdes*
   IEEE Robotics and Automation Letters 2022. [[paper](https://arxiv.org/abs/2206.02622)] [[code](https://github.com/spaceuma/MarsSampleLocalization)]
 
-### <a name="pose"></a> View Synthesis
+### <a name="view"></a> View Synthesis
 - 📊
   **Local Light Field Fusion: Practical View Synthesis with Prescriptive Sampling Guidelines**.
  *Ben Mildenhall, Pratul P. Srinivasan, Rodrigo Ortiz-Cayon, Nima Khademi Kalantari, Ravi Ramamoorthi, Ren Ng, Abhishek Kar*.
   SIGGRAPH 2019. [[paper](https://arxiv.org/pdf/1905.00889.pdf)][[project](https://bmild.github.io/llff/)]
 
-### <a name="pose"></a> Event Camera
+### <a name="event"></a> Event Camera
 - 📊
   **ESIM: an Open Event Camera Simulator**.
   *Henri Rebecq, Daniel Gehrig, Davide Scaramuzza*.
