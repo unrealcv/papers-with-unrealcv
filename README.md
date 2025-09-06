@@ -10,7 +10,7 @@ The following labels are used to indicate the usage of UnrealCV in each paper:
 - 🔍`Diagnosis`: control the factor for model diagnosis.
 - 🏃`Interaction`: train/test agent(s) by interacting with the virtual worlds (e.g., RL).
 
-## Table of Content
+## Table of Contentc
 * [Semantic Understanding](#semantic)
   * [Segmentation](#segmentation)
   * [Text Detection](#text-detection)
@@ -301,6 +301,10 @@ When sending PRs, please put the new paper at the correct chronological position
   **RSPT: Reconstruct Surroundings and Predict Trajectories for Generalizable Active Object Tracking**.
   *Fangwei Zhong\*, Xiao Bi\*, Yudi Zhang, Wei Zhang, Yizhou Wang*.
   AAAI 2023. [[paper](https://arxiv.org/pdf/2304.03623v1.pdf)] [[project](https://sites.google.com/view/aot-rspt)]
+- 📊🏃
+  **Empowering Embodied Visual Tracking with Visual Foundation Models and Offline RL**.
+  *Fangwei Zhong, Kui Wu*, Hai Ci, Churan Wang, Hao Chen*.
+  ECCV 2024. [[paper](https://arxiv.org/pdf/2404.09857)] [[code](https://github.com/UnrealTracking/Offline_RL_Active_Tracking)]
 
 ## <a name="multi-agent"></a> Multi-Agent Cooperation
 - 🏃
