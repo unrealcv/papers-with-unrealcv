@@ -313,6 +313,16 @@ When sending PRs, please put the new paper at the correct chronological position
   *Fangwei Zhong, Kui Wu*, Hai Ci, Churan Wang, Hao Chen*.
   ECCV 2024. [[paper](https://arxiv.org/pdf/2404.09857)] [[code](https://github.com/UnrealTracking/Offline_RL_Active_Tracking)]
 
+- 🏃
+  **VLM Can Be a Good Assistant: Enhancing Embodied Visual Tracking with Self-Improving Vision-Language Models**.
+  *Kui Wu, Shuhang Xu, Hao Chen, Churan Wang, Zhoujun Li, Yizhou Wang, Fangwei Zhong*.
+  IROS 2025. [[paper](https://arxiv.org/abs/2505.20718)]
+
+- 🏃
+  **TrackVLA: Embodied Visual Tracking in the Wild**.
+  *Shaoan Wang, Jiazhao Zhang, Minghan Li, Jiahang Liu, Anqi Li, Kui Wu, Fangwei Zhong, Junzhi Yu, Zhizheng Zhang, He Wang*.
+  CoRL 2025. [[paper](https://arxiv.org/abs/2505.23189)]
+
 ## <a name="multi-agent"></a> Multi-Agent Cooperation
 - 🏃
   **Pose-Assisted Multi-Camera Collaboration for Active Object Tracking**.
