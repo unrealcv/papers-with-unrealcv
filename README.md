@@ -1,7 +1,7 @@
 # Papers with UnrealCV
 > A curated list of papers using [UnrealCV](unrealcv.org).
 
-This is a list of papers that use [UnrealCV](unrealcv.org), an open source project to help researchers build virtual worlds using [Unreal Engine 4](www.unrealengine.com). 
+This is a list of papers that use [UnrealCV](unrealcv.org), an open source project to help researchers build virtual worlds using [Unreal Engine 4/5](www.unrealengine.com). 
 The papers are categorized by their applications, such as semantic understanding, 3D vision, embodied vision, etc.
 
 The following labels are used to indicate the usage of UnrealCV in each paper:
@@ -21,6 +21,7 @@ The following labels are used to indicate the usage of UnrealCV in each paper:
   * [Scene Reconstruction](#reconstruction)
   * [Pose Estimation](#pose)
 * [Embodied Vision](#embodied-vision)
+  * [General Simulation/Datasets](#general-simulation)
   * [Visual Navigation](#visual-navigation)
   * [Active Object Tracking](#active-tracking)
   * [Multi-agent Cooperation](#multi-agent)
@@ -246,7 +247,17 @@ When sending PRs, please put the new paper at the correct chronological position
 
 ## <a name="embodied-vision"></a> Embodied Vision
 
-## <a name="visual-navigation"></a> Visual Navigation
+### <a name="general-simulation"></a> General Simulation/Datasets
+- 🏃 📊 🔍 
+  **UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI**.
+  *Fangwei Zhong, Kui Wu, Churan Wang, Hao Chen, Hai Ci, Zhoujun Li, Yizhou Wang*.
+  ICCV 2025. [[paper](https://arxiv.org/abs/2412.20977)] [[project](http://unrealzoo.site/)]
+- 📊 🏃
+  **EmbRACE-3K: Embodied Reasoning and Action in Complex Environments**.
+  *Mingxian Lin, Wei Huang, Yitang Li, Chengjie Jiang, Kui Wu, Fangwei Zhong, Shengju Qian, Xin Wang, Xiaojuan Qi*.
+  Arxiv 2025. [[paper](https://arxiv.org/abs/2507.10548)]
+
+### <a name="visual-navigation"></a> Visual Navigation
 
 - 🏃
   **An Improved Method Based on Deep Reinforcement Learning for Target Searching**.
@@ -265,8 +276,16 @@ When sending PRs, please put the new paper at the correct chronological position
   **Simultaneous localization and mapping architecture for small bodies and space exploration.**.
   *Bettens, A., Morrell, B., Coen, M., Wu, X., Gibbens, P., & Chamitoff, G.*.
   Advances in Space Research 2024, 73(1), 1185-1197. [[paper](https://www.sciencedirect.com/science/article/pii/S0273117723008682)]
+- 📊 🏃
+  **UAV-Flow Colosseo: A Real-World Benchmark for Flying-on-a-Word UAV Imitation Learning**.
+  *Xiangyu Wang, Donglin Yang, Yue Liao, Wenhao Zheng, wenjun wu, Bin Dai, Hongsheng Li, Si Liu*.
+  Arxiv 2025. [[paper](https://arxiv.org/abs/2505.15725)]
+- 📊 🏃
+  **Scalable Multi-Task Reinforcement Learning for Generalizable Spatial Intelligence in Visuomotor Agents**.
+  *Shaofei Cai, Zhancun Mu, Haiwen Xia, Bowei Zhang, Anji Liu, Yitao Liang*.
+  Arxiv 2025. [[paper](https://arxiv.org/pdf/2403.17200)]
 
-## <a name="active-tracking"></a> Active Object Tracking
+### <a name="active-tracking"></a> Active Object Tracking
 - 🏃 
  **End-to-end Active Object Tracking via Reinforcement Learning**.
  *Wenhan Luo\*, Peng Sun\*, Fangwei Zhong, Wei Liu, Tong Zhang, Yizhou Wang*. 
@@ -323,7 +342,7 @@ When sending PRs, please put the new paper at the correct chronological position
   *Shaoan Wang, Jiazhao Zhang, Minghan Li, Jiahang Liu, Anqi Li, Kui Wu, Fangwei Zhong, Junzhi Yu, Zhizheng Zhang, He Wang*.
   CoRL 2025. [[paper](https://arxiv.org/abs/2505.23189)]
 
-## <a name="multi-agent"></a> Multi-Agent Cooperation
+### <a name="multi-agent"></a> Multi-Agent Cooperation
 - 🏃
   **Pose-Assisted Multi-Camera Collaboration for Active Object Tracking**.
   *Jing Li\*, Jing Xu\*, Fangwei Zhong\*, Xiangyu Kong, Yu Qiao, Yizhou Wang*.
@@ -334,7 +353,7 @@ When sending PRs, please put the new paper at the correct chronological position
   *Hai Ci\*, Mickel Liu\*, Xuehai Pan\*, Fangwei Zhong, Yizhou Wang*.
   ICLR 2023. [[paper](https://openreview.net/pdf?id=CPIy9TWFYBG)] [[project](https://sites.google.com/view/active3dpose)]
 
-## <a name="Agricultural"></a> Agricultural/Plant Science
+### <a name="Agricultural"></a> Agricultural/Plant Science
 - 📊
   **A scalable pipeline to create synthetic datasets from functional–structural plant models for deep learning**.
   *Dirk Norbert Baker, Felix Maximilian Bauer, Mona Giraud, Andrea Schnepf, Jens Henrik Göbbert, Hanno Scharr, Ebba Hvannberg, Morris Riedel*.
