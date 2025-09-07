@@ -25,6 +25,7 @@ The following labels are used to indicate the usage of UnrealCV in each paper:
   * [Visual Navigation](#visual-navigation)
   * [Active Object Tracking](#active-tracking)
   * [Multi-agent Cooperation](#multi-agent)
+  * [Applications](#application)
 
 ## <a name="contributing"></a> Contributing
 If you find any papers that used UnrealCV but are not included in this list, please feel free to send a PR or open an issue.
@@ -134,7 +135,6 @@ When sending PRs, please put the new paper at the correct chronological position
   **Learning Occluded Branch Depth Maps in Forest Environments Using RGB-D Images**
   *Geckeler, C., Aucone, E., Schnider, Y., Simeon, A., von Bassewitz, J. P., Zhu, Y., & Mintchev, S.*
     IEEE Robotics and Automation Letters (RA-L) 2024. [[paper](https://ieeexplore.ieee.org/document/10403997]
-
 
 ### <a name="reconstruction"></a> Scene Reconstruction
 - 📊
@@ -277,13 +277,17 @@ When sending PRs, please put the new paper at the correct chronological position
   *Bettens, A., Morrell, B., Coen, M., Wu, X., Gibbens, P., & Chamitoff, G.*.
   Advances in Space Research 2024, 73(1), 1185-1197. [[paper](https://www.sciencedirect.com/science/article/pii/S0273117723008682)]
 - 📊 🏃
+  **OpenFly: A Versatile Toolchain and Large-scale Benchmark for Aerial Vision-Language Navigation**.
+  *Yunpeng Gao, Chenhui Li, Zhongrui You, Junli Liu, Zhen Li, ..., Bin Zhao, Xuelong Li*.
+  Arxiv 2025. [[paper](https://arxiv.org/abs/2110.02020)] [[project](https://shailab-ipec.github.io/openfly/)]
+- 📊 🏃
   **UAV-Flow Colosseo: A Real-World Benchmark for Flying-on-a-Word UAV Imitation Learning**.
   *Xiangyu Wang, Donglin Yang, Yue Liao, Wenhao Zheng, wenjun wu, Bin Dai, Hongsheng Li, Si Liu*.
   Arxiv 2025. [[paper](https://arxiv.org/abs/2505.15725)]
 - 📊 🏃
   **Scalable Multi-Task Reinforcement Learning for Generalizable Spatial Intelligence in Visuomotor Agents**.
   *Shaofei Cai, Zhancun Mu, Haiwen Xia, Bowei Zhang, Anji Liu, Yitao Liang*.
-  Arxiv 2025. [[paper](https://arxiv.org/pdf/2403.17200)]
+  Arxiv 2025. [[paper](https://arxiv.org/abs/2507.23698)]
 
 ### <a name="active-tracking"></a> Active Object Tracking
 - 🏃 
@@ -342,6 +346,11 @@ When sending PRs, please put the new paper at the correct chronological position
   *Shaoan Wang, Jiazhao Zhang, Minghan Li, Jiahang Liu, Anqi Li, Kui Wu, Fangwei Zhong, Junzhi Yu, Zhizheng Zhang, He Wang*.
   CoRL 2025. [[paper](https://arxiv.org/abs/2505.23189)]
 
+- 🏃📊
+  **Hierarchical Instruction-aware Embodied Visual Tracking**.
+  *Kui Wu, Hao Chen, Churan Wang, Fakhri Karray, Zhoujun Li, Yizhou Wang, Fangwei Zhong*.
+  Arxiv 2025. [[paper](https://arxiv.org/abs/2505.20710)]
+
 ### <a name="multi-agent"></a> Multi-Agent Cooperation
 - 🏃
   **Pose-Assisted Multi-Camera Collaboration for Active Object Tracking**.
@@ -353,7 +362,12 @@ When sending PRs, please put the new paper at the correct chronological position
   *Hai Ci\*, Mickel Liu\*, Xuehai Pan\*, Fangwei Zhong, Yizhou Wang*.
   ICLR 2023. [[paper](https://openreview.net/pdf?id=CPIy9TWFYBG)] [[project](https://sites.google.com/view/active3dpose)]
 
-### <a name="Agricultural"></a> Agricultural/Plant Science
+### <a name="Applications"></a> Applications
+- 🏃
+  **iFANnpp: Nuclear Power Plant Digital Twin for Robots and Autonomous Intelligence**.
+  *Youndo Do, Marc Zebrowitz, Jackson Stahl, Fan Zhang*.
+  Arxiv 2024. [[paper](https://arxiv.org/abs/2410.09213)]
+
 - 📊
   **A scalable pipeline to create synthetic datasets from functional–structural plant models for deep learning**.
   *Dirk Norbert Baker, Felix Maximilian Bauer, Mona Giraud, Andrea Schnepf, Jens Henrik Göbbert, Hanno Scharr, Ebba Hvannberg, Morris Riedel*.
