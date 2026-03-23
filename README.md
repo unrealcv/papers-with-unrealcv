@@ -257,6 +257,16 @@ When sending PRs, please put the new paper at the correct chronological position
   *Mingxian Lin, Wei Huang, Yitang Li, Chengjie Jiang, Kui Wu, Fangwei Zhong, Shengju Qian, Xin Wang, Xiaojuan Qi*.
   Arxiv 2025. [[paper](https://arxiv.org/abs/2507.10548)]
 
+- 📊 🏃
+  **SimWorld: An Open-ended Realistic Simulator for Autonomous Agents in Physical and Social Worlds**.
+  *Jiawei Ren, Xiaokang Ye, Lingjun Mao, Xuhong He, Jianzhi Shen, Yiming Liang, Ruixuan Zhang, Tianai Yue, Yiqing Yang, Ryan Wu, Kevin Benavente, Rajiv Mandya Nagaraju, Muhammad Faayez, Xiyan Zhang, Dhruv Vivek Sharma, Xianrui Zhong, Ziqiao Ma, Tianmin Shu, Zhiting Hu, Lianhui Qin*.
+  Arxiv 2025. [[paper](https://arxiv.org/abs/2512.01078)] [[project](https://simworld.org/)] [[code](https://github.com/SimWorld-AI/SimWorld)]
+
+- 📊 🏃
+  **SimWorld-Robotics: Synthesizing Photorealistic and Dynamic Urban Environments for Multimodal Robot Navigation and Collaboration**.
+  *Jiawei Ren, Yiming Liang, Xiaokang Ye, Lingjun Mao, Xuhong He, Tianai Yue, Yiqing Yang, Ryan Wu, Zhiting Hu, Lianhui Qin*.
+  NeurIPS 2025. [[paper](https://arxiv.org/abs/2512.10046)] [[project](https://sites.google.com/view/simworld-robotics)]
+
 ### <a name="visual-navigation"></a> Visual Navigation
 
 - 🏃
@@ -284,6 +294,10 @@ When sending PRs, please put the new paper at the correct chronological position
   **UAV-Flow Colosseo: A Real-World Benchmark for Flying-on-a-Word UAV Imitation Learning**.
   *Xiangyu Wang, Donglin Yang, Yue Liao, Wenhao Zheng, wenjun wu, Bin Dai, Hongsheng Li, Si Liu*.
   Arxiv 2025. [[paper](https://arxiv.org/abs/2505.15725)]
+- 📊 🏃
+  **DeliveryBench: Can Agents Earn Profit in Real World?**.
+  *Lingjun Mao, Jiawei Ren, Kun Zhou, Jixuan Chen, Ziqiao Ma, Lianhui Qin*.
+  Arxiv 2025. [[paper](https://arxiv.org/abs/2512.19234)] [[project](https://deliverybench.github.io/)] [[code](https://github.com/SimWorld-AI/DeliveryBench)]
 - 📊 🏃
   **Scalable Multi-Task Reinforcement Learning for Generalizable Spatial Intelligence in Visuomotor Agents**.
   *Shaofei Cai, Zhancun Mu, Haiwen Xia, Bowei Zhang, Anji Liu, Yitao Liang*.
