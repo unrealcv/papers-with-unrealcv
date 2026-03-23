@@ -279,7 +279,7 @@ When sending PRs, please put the new paper at the correct chronological position
 - 📊 🏃
   **OpenFly: A Versatile Toolchain and Large-scale Benchmark for Aerial Vision-Language Navigation**.
   *Yunpeng Gao, Chenhui Li, Zhongrui You, Junli Liu, Zhen Li, ..., Bin Zhao, Xuelong Li*.
-  Arxiv 2025. [[paper](https://arxiv.org/abs/2110.02020)] [[project](https://shailab-ipec.github.io/openfly/)]
+  Arxiv 2025. [[paper](https://arxiv.org/abs/2502.18041)] [[project](https://shailab-ipec.github.io/openfly/)]
 - 📊 🏃
   **UAV-Flow Colosseo: A Real-World Benchmark for Flying-on-a-Word UAV Imitation Learning**.
   *Xiangyu Wang, Donglin Yang, Yue Liao, Wenhao Zheng, wenjun wu, Bin Dai, Hongsheng Li, Si Liu*.
@@ -345,6 +345,11 @@ When sending PRs, please put the new paper at the correct chronological position
   **TrackVLA: Embodied Visual Tracking in the Wild**.
   *Shaoan Wang, Jiazhao Zhang, Minghan Li, Jiahang Liu, Anqi Li, Kui Wu, Fangwei Zhong, Junzhi Yu, Zhizheng Zhang, He Wang*.
   CoRL 2025. [[paper](https://arxiv.org/abs/2505.23189)]
+
+- 🏃📊
+  **TrackVLA++: Unleashing Reasoning and Memory Capabilities in VLA Models for Embodied Visual Tracking**.
+  *Shaoan Wang, Jiazhao Zhang, Minghan Li, Jiahang Liu, Anqi Li, Kui Wu, Fangwei Zhong, Junzhi Yu, Zhizheng Zhang, He Wang*.
+  ICRA 2026. [[paper](https://arxiv.org/abs/2510.07134)] [[project](https://pku-epic.github.io/TrackVLA-plus-plus-Web)]
 
 - 🏃📊
   **Hierarchical Instruction-aware Embodied Visual Tracking**.
