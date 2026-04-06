@@ -68,6 +68,11 @@ When sending PRs, please put the new paper at the correct chronological position
   **OmniSCV: An Omnidirectional Synthetic Image Generator for Computer Vision**. 
   *Berenguel-Baeta, Bruno, Jesus Bermudez-Cameo, and Jose J. Guerrero*. Sensors 2020. [[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7181225/)]
 
+- 📊
+  **UR-MAT: A Multimodal, Material-Aware Synthetic Dataset of Urban Scenarios**.
+  *Debora Russo, Nicola Mazzocca, Valeria Vittorini*.
+  ACM Multimedia 2025. [[paper](https://dl.acm.org/doi/10.1145/3746027.3758314)]
+
 ### <a name="text-detection"></a> Text Detection and Recognition
 - 📊
   **UnrealText: Synthesizing Realistic Scene Text Images from the Unreal World**.
