@@ -366,14 +366,29 @@ When sending PRs, please put the new paper at the correct chronological position
   CoRL 2025. [[paper](https://arxiv.org/abs/2505.23189)]
 
 - 🏃📊
-  **TrackVLA++: Unleashing Reasoning and Memory Capabilities in VLA Models for Embodied Visual Tracking**.
-  *Shaoan Wang, Jiazhao Zhang, Minghan Li, Jiahang Liu, Anqi Li, Kui Wu, Fangwei Zhong, Junzhi Yu, Zhizheng Zhang, He Wang*.
-  ICRA 2026. [[paper](https://arxiv.org/abs/2510.07134)] [[project](https://pku-epic.github.io/TrackVLA-plus-plus-Web)]
-
-- 🏃📊
   **Hierarchical Instruction-aware Embodied Visual Tracking**.
   *Kui Wu, Hao Chen, Churan Wang, Fakhri Karray, Zhoujun Li, Yizhou Wang, Fangwei Zhong*.
   Arxiv 2025. [[paper](https://arxiv.org/abs/2505.20710)]
+
+- 🏃
+  **CoMaTrack: Competitive Multi-Agent Game-Theoretic Tracking with Vision-Language-Action Models**.
+  *Youzhi Liu, Li Gao, Liu Liu, Mingyang Lv, Yang Cai*.
+  Arxiv 2026. [[paper](https://arxiv.org/abs/2603.22846)] [[code](https://github.com/wlqcode/CoMaTrack-Bench)]
+
+- 🏃
+  **AdaTracker: Learning Adaptive In-Context Policy for Cross-Embodiment Active Visual Tracking**.
+  *Kui Wu, Hao Chen, Jinzhu Han, Haijun Liu, Churan Wang, Yizhou Wang, Zhoujun Li, Si Liu, Fangwei Zhong*.
+  Arxiv 2026. [[paper](https://arxiv.org/abs/2604.20305)]
+
+- 🏃
+  **Instance-level Visual Active Tracking with Occlusion-Aware Planning**.
+  *Haowei Sun, Kai Zhou, Hao Gao, Shiteng Zhang, Jinwu Hu, Xutao Wen, Qixiang Ye, Mingkui Tan*.
+  CVPR 2026 Poster. [[paper](https://arxiv.org/abs/2604.21453)] [[code](https://github.com/SHWplus/OA-VAT)]
+
+- 🏃📊
+  **TrackVLA++: Unleashing Reasoning and Memory Capabilities in VLA Models for Embodied Visual Tracking**.
+  *Shaoan Wang, Jiazhao Zhang, Minghan Li, Jiahang Liu, Anqi Li, Kui Wu, Fangwei Zhong, Junzhi Yu, Zhizheng Zhang, He Wang*.
+  ICRA 2026. [[paper](https://arxiv.org/abs/2510.07134)] [[project](https://pku-epic.github.io/TrackVLA-plus-plus-Web)]
 
 ### <a name="multi-agent"></a> Multi-Agent Cooperation
 - 🏃
