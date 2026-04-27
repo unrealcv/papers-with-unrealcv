@@ -373,7 +373,7 @@ When sending PRs, please put the new paper at the correct chronological position
 - 🏃
   **AdaTracker: Learning Adaptive In-Context Policy for Cross-Embodiment Active Visual Tracking**.
   *Kui Wu, Hao Chen, Jinzhu Han, Haijun Liu, Churan Wang, Yizhou Wang, Zhoujun Li, Si Liu, Fangwei Zhong*.
-  Arxiv 2026. [[paper](https://arxiv.org/abs/2604.20305)]
+  IEEE RA-L 2026. [[paper](https://arxiv.org/abs/2604.20305)]
 
 - 🏃
   **Instance-level Visual Active Tracking with Occlusion-Aware Planning**.
