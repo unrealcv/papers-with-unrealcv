@@ -141,6 +141,11 @@ When sending PRs, please put the new paper at the correct chronological position
   *Geckeler, C., Aucone, E., Schnider, Y., Simeon, A., von Bassewitz, J. P., Zhu, Y., & Mintchev, S.*
     IEEE Robotics and Automation Letters (RA-L) 2024. [[paper](https://ieeexplore.ieee.org/document/10403997]
 
+- 📊
+  **Real-World Depth Recovery via Structure Uncertainty Modeling and Inaccurate GT Depth Fitting**.
+  *Delong Suzhang, Meng Yang*.
+  Arxiv 2025. [[paper](https://arxiv.org/abs/2504.11820)]
+
 ### <a name="reconstruction"></a> Scene Reconstruction
 - 📊
   **Submodular Trajectory Optimization for Aerial 3D Scanning**.
@@ -221,6 +226,11 @@ When sending PRs, please put the new paper at the correct chronological position
   **Proactive Multi-Camera Collaboration for 3D Human Pose Estimation**.
   *Hai Ci\*, Mickel Liu\*, Xuehai Pan\*, Fangwei Zhong, Yizhou Wang*.
   ICLR 2023. [[paper](https://openreview.net/pdf?id=CPIy9TWFYBG)] [[project](https://sites.google.com/view/active3dpose)]
+
+- 📊
+  **SPADES: A Realistic Spacecraft Pose Estimation Dataset using Event Sensing**.
+  *Arunkumar Rathinam, Haytam Qadadri, Djamila Aouada*.
+  ICRA 2024. [[paper](https://ieeexplore.ieee.org/document/10611231)] [[code](https://github.com/ArunkumarRathinam/SPADES)]
 
 - 📊
   **Monocular 3D Human Pose Estimation for Sports Broadcasts using Partial Sports Field Registration**.
@@ -406,6 +416,10 @@ When sending PRs, please put the new paper at the correct chronological position
   **A scalable pipeline to create synthetic datasets from functional–structural plant models for deep learning**.
   *Dirk Norbert Baker, Felix Maximilian Bauer, Mona Giraud, Andrea Schnepf, Jens Henrik Göbbert, Hanno Scharr, Ebba Hvannberg, Morris Riedel*.
   in silico Plants, 6(1), diad022. [[paper](https://academic.oup.com/insilicoplants/article/6/1/diad022/7462759)]
+- 📊
+  **A Hybrid Co-Finetuning Approach for Visual Bug Detection in Video Games**.
+  *Faliu Yi, Sherif Abdelfattah, Wei Huang, A. J. Brown*.
+  AIIDE 2025. [[paper](https://ojs.aaai.org/index.php/AIIDE/article/view/36820)]
 - 📊
   **Adapting Agricultural Virtual Environments in Game Engines to Improve HPC Accessibility**.
   *Dirk Norbert Baker, Felix Bauer, Andrea Schnepf, Hanno Scharr, Morris Riedel, Jens Henrik Göbbert, Ebba Hvannberg*.
