@@ -282,6 +282,11 @@ When sending PRs, please put the new paper at the correct chronological position
   *Jiawei Ren, Yiming Liang, Xiaokang Ye, Lingjun Mao, Xuhong He, Tianai Yue, Yiqing Yang, Ryan Wu, Zhiting Hu, Lianhui Qin*.
   NeurIPS 2025. [[paper](https://arxiv.org/abs/2512.10046)] [[project](https://sites.google.com/view/simworld-robotics)]
 
+- 📊 🏃 🔍
+  **LychSim: A Controllable and Interactive Simulation Framework for Vision Research**.
+  *Wufei Ma, Chloe Wang, Siyi Chen, Jiawei Peng, Patrick Li, Alan Yuille*.
+  Arxiv 2026. [[paper](https://arxiv.org/abs/2605.12449)] [[project](https://lychsim.github.io/)] [[code](https://github.com/wufeim/LychSim)]
+
 ### <a name="visual-navigation"></a> Visual Navigation
 
 - 🏃
