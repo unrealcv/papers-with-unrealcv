@@ -248,6 +248,11 @@ When sending PRs, please put the new paper at the correct chronological position
  *Ben Mildenhall, Pratul P. Srinivasan, Rodrigo Ortiz-Cayon, Nima Khademi Kalantari, Ravi Ramamoorthi, Ren Ng, Abhishek Kar*.
   SIGGRAPH 2019. [[paper](https://arxiv.org/pdf/1905.00889.pdf)][[project](https://bmild.github.io/llff/)]
 
+- 📊
+  **5D Light Field Synthesis from a Monocular Video**.
+  *Kyuho Bae, Andre Ivan, Hajime Nagahara, In Kyu Park*.
+  Arxiv 2019. [[paper](https://arxiv.org/abs/1912.10687)]
+
 ### <a name="event"></a> Event Camera
 - 📊
   **ESIM: an Open Event Camera Simulator**.
