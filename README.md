@@ -292,7 +292,7 @@ When sending PRs, please put the new paper at the correct chronological position
   *Wufei Ma, Chloe Wang, Siyi Chen, Jiawei Peng, Patrick Li, Alan Yuille*.
   Arxiv 2026. [[paper](https://arxiv.org/abs/2605.12449)] [[project](https://lychsim.github.io/)] [[code](https://github.com/wufeim/LychSim)]
 
-- 📊 🏃
+- 📊 🏃 🔍
   **RescueBench: Can Embodied Agents Save Lives in the Wild ?**.
   *Kui Wu, Beiyu Guo, Hao Chen, ShuHang Xu, Yuling Li, Yongdan Zeng, Zhoujun Li, Yizhou Wang, Fangwei Zhong*.
   Arxiv 2026. [[paper](https://arxiv.org/abs/2606.01848)] [[code](https://github.com/UnrealZoo/RescueBench)]
