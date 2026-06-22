@@ -287,6 +287,11 @@ When sending PRs, please put the new paper at the correct chronological position
   *Jiawei Ren, Yiming Liang, Xiaokang Ye, Lingjun Mao, Xuhong He, Tianai Yue, Yiqing Yang, Ryan Wu, Zhiting Hu, Lianhui Qin*.
   NeurIPS 2025. [[paper](https://arxiv.org/abs/2512.10046)] [[project](https://sites.google.com/view/simworld-robotics)]
 
+- 📊 🏃
+  **SimWorld Studio: Automatic Environment Generation with Evolving Coding Agent for Embodied Agent Learning**.
+  *Haoqiang Kang, Xiaokang Ye, Yuhan Liu, Siddhant Hitesh Mantri, Lingjun Mao, James Fleming, Drishti Regmi, Lianhui Qin*.
+  Arxiv 2026. [[paper](https://arxiv.org/abs/2605.09423)] [[code](https://github.com/SimWorld-AI/SimWorld-Studio)]
+
 - 📊 🏃 🔍
   **LychSim: A Controllable and Interactive Simulation Framework for Vision Research**.
   *Wufei Ma, Chloe Wang, Siyi Chen, Jiawei Peng, Patrick Li, Alan Yuille*.
