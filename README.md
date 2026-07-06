@@ -343,6 +343,11 @@ When sending PRs, please put the new paper at the correct chronological position
   *Baining Zhao, Jiacheng Xu, Weicheng Feng, Xin Zhang, Zhaolu Wang, Haoyang Wang, Shilong Ji, Ziyou Wang, Jianjie Fang, Zhiheng Zheng, Weichen Zhang, Yu Shang, Wei Wu, Chen Gao, Xinlei Chen, Yong Li*.
   Arxiv 2026. [[paper](https://arxiv.org/abs/2605.15964)] [[code](https://github.com/EmbodiedCity/WorldVLN.code)] [[project](https://embodiedcity.github.io/WorldVLN/)]
 
+- 📊 🏃
+  **Think Like a Pilot: Fine-Grained Long-Horizon UAV Navigation**.
+  *Xiangyi Zheng, Xiangyu Wang, Qinan Liao, Zimu Tang, Yue Liao, Dongyue Lyu, Guodong Wang, Junjie Liu, Si Liu*.
+  Arxiv 2026. [[paper](https://arxiv.org/abs/2606.06836)]
+
 ### <a name="active-tracking"></a> Active Object Tracking
 - 🏃 
  **End-to-end Active Object Tracking via Reinforcement Learning**.
@@ -414,6 +419,11 @@ When sending PRs, please put the new paper at the correct chronological position
   **Instance-level Visual Active Tracking with Occlusion-Aware Planning**.
   *Haowei Sun, Kai Zhou, Hao Gao, Shiteng Zhang, Jinwu Hu, Xutao Wen, Qixiang Ye, Mingkui Tan*.
   CVPR 2026 Poster. [[paper](https://arxiv.org/abs/2604.21453)] [[code](https://github.com/SHWplus/OA-VAT)]
+
+- 📊 🏃
+  **CosFly: Plan in the Matrix, Fly in the World**.
+  *Hanxuan Chen, Xiangyue Wang, Songsheng Cheng, Ruilong Ren, Jie Zheng, Shuai Yuan, Tianle Zeng, Hanzhong Guo, Binbo Li, Kangli Wang, Ji Pei*.
+  Arxiv 2026. [[paper](https://arxiv.org/abs/2605.19120)]
 
 - 🏃📊
   **TrackVLA++: Unleashing Reasoning and Memory Capabilities in VLA Models for Embodied Visual Tracking**.
