@@ -410,6 +410,11 @@ When sending PRs, please put the new paper at the correct chronological position
   *Kui Wu, Hao Chen, Churan Wang, Fakhri Karray, Zhoujun Li, Yizhou Wang, Fangwei Zhong*.
   Arxiv 2025. [[paper](https://arxiv.org/abs/2505.20710)]
 
+- 🏃 🔍
+  **CoMaTrack: Competitive Multi-Agent Game-Theoretic Tracking with Vision-Language-Action Models**.
+  *Youzhi Liu, Li Gao, Liu Liu, Mingyang Lv, Yang Cai*.
+  Arxiv 2026. [[paper](https://arxiv.org/abs/2603.22846)] [[code](https://github.com/wlqcode/CoMaTrack-Bench)]
+
 - 🏃
   **AdaTracker: Learning Adaptive In-Context Policy for Cross-Embodiment Active Visual Tracking**.
   *Kui Wu, Hao Chen, Jinzhu Han, Haijun Liu, Churan Wang, Yizhou Wang, Zhoujun Li, Si Liu, Fangwei Zhong*.
