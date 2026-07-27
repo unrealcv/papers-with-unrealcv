@@ -227,20 +227,25 @@ When sending PRs, please put the new paper at the correct chronological position
   *Hai Ci\*, Mickel Liu\*, Xuehai Pan\*, Fangwei Zhong, Yizhou Wang*.
   ICLR 2023. [[paper](https://openreview.net/pdf?id=CPIy9TWFYBG)] [[project](https://sites.google.com/view/active3dpose)]
 
-- 📊
-  **SPADES: A Realistic Spacecraft Pose Estimation Dataset using Event Sensing**.
-  *Arunkumar Rathinam, Haytam Qadadri, Djamila Aouada*.
-  ICRA 2024. [[paper](https://ieeexplore.ieee.org/document/10611231)] [[code](https://github.com/ArunkumarRathinam/SPADES)]
+- 📊 
+  **Hardware-accelerated Mars Sample Localization via Deep Transfer Learning from Photorealistic Simulations**
+  *R. Castilla-Arquillo, C. J. P ́erez-del-Pulgar, G. J. Paz-Delgado and L. Gerdes*
+  IEEE Robotics and Automation Letters 2022. [[paper](https://arxiv.org/abs/2206.02622)] [[code](https://github.com/spaceuma/MarsSampleLocalization)]
 
 - 📊
   **Monocular 3D Human Pose Estimation for Sports Broadcasts using Partial Sports Field Registration**.
   *Tobias Baumgartner, Stefanie Klatt*. CVPR-W 2023. [[paper](https://openaccess.thecvf.com/content/CVPR2023W/CVSports/papers/Baumgartner_Monocular_3D_Human_Pose_Estimation_for_Sports_Broadcasts_Using_Partial_CVPRW_2023_paper.pdf) ] 
   [[code](https://github.com/tobibaum/PartialSportsFieldReg_3DHPE)]
 
-- 📊 
-  **Hardware-accelerated Mars Sample Localization via Deep Transfer Learning from Photorealistic Simulations**
-  *R. Castilla-Arquillo, C. J. P ́erez-del-Pulgar, G. J. Paz-Delgado and L. Gerdes*
-  IEEE Robotics and Automation Letters 2022. [[paper](https://arxiv.org/abs/2206.02622)] [[code](https://github.com/spaceuma/MarsSampleLocalization)]
+- 📊
+  **SPADES: A Realistic Spacecraft Pose Estimation Dataset using Event Sensing**.
+  *Arunkumar Rathinam, Haytam Qadadri, Djamila Aouada*.
+  ICRA 2024. [[paper](https://ieeexplore.ieee.org/document/10611231)] [[code](https://github.com/ArunkumarRathinam/SPADES)]
+
+- 📊
+  **2D Pre-Training for 3D Pose Estimation**.
+  *Liyao Jiang, Ruichen Chen, Keith G. Mills*.
+  Arxiv 2026. [[paper](https://arxiv.org/abs/2604.22830)] [[code](https://github.com/ECE740F21T01/pytorch-pose-hg-3d)]
 
 ### <a name="view"></a> View Synthesis
 - 📊
@@ -385,6 +390,11 @@ When sending PRs, please put the new paper at the correct chronological position
   **Anti-Distractor Active Object Tracking in 3D Environments**.
   *Mao Xi, Yun Zhou, Zheng Chen, Wengang Zhou, Houqiang Li*.
   IEEE TCSVT 2022. [[paper](https://ieeexplore.ieee.org/abstract/document/9521193)]
+
+- 🏃
+  **Towards Active Vision for Action Localization with Reactive Control and Predictive Learning**.
+  *Shubham Trehan, Sathyanarayanan N. Aakur*.
+  WACV 2022. [[paper](https://arxiv.org/abs/2111.05448)]
 
 - 🏃
   **RSPT: Reconstruct Surroundings and Predict Trajectories for Generalizable Active Object Tracking**.
