@@ -55,6 +55,11 @@ When sending PRs, please put the new paper at the correct chronological position
    ICRA 2019. [[paper](https://ai.uni-bremen.de/papers/mania19scenarios.pdf)] [[code](https://github.com/code-iai/ROSIntegration)]
    
 - 📊
+  **UnrealROX: An Extremely Photorealistic Virtual Reality Environment for Robotics Simulations and Synthetic Data Generation**.
+  *Pablo Martinez-Gonzalez, Sergiu Oprea, Alberto Garcia-Garcia, Alvaro Jover-Alvarez, Sergio Orts-Escolano, Jose Garcia-Rodriguez*.
+  Virtual Reality 2019. [[paper](https://arxiv.org/abs/1810.06936)] [[code](https://github.com/3dperceptionlab/unrealrox)]
+
+- 📊
   **Semantic Part Detection via Matching: Learning to Generalize to Novel Viewpoints from Limited Training Data**.
   *Yutong Bai, Qing Liu, Lingxi Xie, Weichao Qiu, Yan Zheng, Alan Yuille*.
   ICCV 2019. [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Bai_Semantic_Part_Detection_via_Matching_Learning_to_Generalize_to_Novel_ICCV_2019_paper.pdf)]
@@ -67,6 +72,11 @@ When sending PRs, please put the new paper at the correct chronological position
 - 📊 
   **OmniSCV: An Omnidirectional Synthetic Image Generator for Computer Vision**. 
   *Berenguel-Baeta, Bruno, Jesus Bermudez-Cameo, and Jose J. Guerrero*. Sensors 2020. [[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7181225/)]
+
+- 📊
+  **UnrealROX+: An Improved Tool for Acquiring Synthetic Data from Virtual 3D Environments**.
+  *Pablo Martinez-Gonzalez, Sergiu Oprea, John Alejandro Castro-Vargas, Alberto Garcia-Garcia, Sergio Orts-Escolano, Jose Garcia-Rodriguez, Markus Vincze*.
+  IJCNN 2021. [[paper](https://arxiv.org/abs/2104.11776)] [[code](https://github.com/3dperceptionlab/unrealrox-plus)]
 
 - 📊
   **UR-MAT: A Multimodal, Material-Aware Synthetic Dataset of Urban Scenarios**.
