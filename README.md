@@ -476,6 +476,11 @@ When sending PRs, please put the new paper at the correct chronological position
   **A scalable pipeline to create synthetic datasets from functional–structural plant models for deep learning**.
   *Dirk Norbert Baker, Felix Maximilian Bauer, Mona Giraud, Andrea Schnepf, Jens Henrik Göbbert, Hanno Scharr, Ebba Hvannberg, Morris Riedel*.
   in silico Plants, 6(1), diad022. [[paper](https://academic.oup.com/insilicoplants/article/6/1/diad022/7462759)]
+- 📊 🔍
+  **Use of Gaming Engines for Robotic Simulations and Computer Vision**.
+  *Leo Brada, Marek Málik, Erik Prada, Ľubica Miková*.
+  Acta Mechanica Slovaca 2025. [[paper](https://doi.org/10.21496/ams.2025.007)]
+
 - 📊
   **A Hybrid Co-Finetuning Approach for Visual Bug Detection in Video Games**.
   *Faliu Yi, Sherif Abdelfattah, Wei Huang, A. J. Brown*.
