@@ -317,6 +317,11 @@ When sending PRs, please put the new paper at the correct chronological position
   *Kui Wu, Beiyu Guo, Hao Chen, ShuHang Xu, Yuling Li, Yongdan Zeng, Zhoujun Li, Yizhou Wang, Fangwei Zhong*.
   Arxiv 2026. [[paper](https://arxiv.org/abs/2606.01848)] [[code](https://github.com/UnrealZoo/RescueBench)]
 
+- 🏃
+  **BVR Sim: An Open and High-Throughput Environment for Heterogeneous Air-Combat Reinforcement Learning**
+  *Haocheng Sun, Mulai Tan*.
+  Arxiv 2026. [[paper](https://arxiv.org/abs/2608.25419)] [[code](https://github.com/lizi-Margin/bvr_sim)]
+
 ### <a name="visual-navigation"></a> Visual Navigation
 
 - 🏃
