@@ -472,6 +472,11 @@ When sending PRs, please put the new paper at the correct chronological position
   ICLR 2023. [[paper](https://openreview.net/pdf?id=CPIy9TWFYBG)] [[project](https://sites.google.com/view/active3dpose)]
 
 ### <a name="Applications"></a> Applications
+- 📊 🔍
+  **Scene Simulation and Cooperative Target Detection During UAV Autonomous Landing**.
+  *Le Qi, Baoxi Yuan, Peng Ma, Yingxia Guo, Feng Wang, Chen Mi*.
+  ICRIS 2020. [[paper](https://doi.org/10.1109/icris52159.2020.00018)]
+
 - 🏃
   **iFANnpp: Nuclear Power Plant Digital Twin for Robots and Autonomous Intelligence**.
   *Youndo Do, Marc Zebrowitz, Jackson Stahl, Fan Zhang*.
