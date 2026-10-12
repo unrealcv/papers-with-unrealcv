@@ -345,6 +345,10 @@ When sending PRs, please put the new paper at the correct chronological position
   **OpenFly: A Versatile Toolchain and Large-scale Benchmark for Aerial Vision-Language Navigation**.
   *Yunpeng Gao, Chenhui Li, Zhongrui You, Junli Liu, Zhen Li, ..., Bin Zhao, Xuelong Li*.
   Arxiv 2025. [[paper](https://arxiv.org/abs/2502.18041)] [[project](https://shailab-ipec.github.io/openfly/)]
+- 🏃 🔍
+  **ROCKET-2: Steering Visuomotor Policy via Cross-View Goal Alignment**.
+  *Shaofei Cai, Zhancun Mu, Anji Liu, Yitao Liang*.
+  Arxiv 2025. [[paper](https://arxiv.org/abs/2503.02505)] [[code](https://github.com/craftjarvis/ROCKET-2)] [[project](https://craftjarvis.github.io/ROCKET-2/)]
 - 📊 🏃
   **UAV-Flow Colosseo: A Real-World Benchmark for Flying-on-a-Word UAV Imitation Learning**.
   *Xiangyu Wang, Donglin Yang, Yue Liao, Wenhao Zheng, wenjun wu, Bin Dai, Hongsheng Li, Si Liu*.
