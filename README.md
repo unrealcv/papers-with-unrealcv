@@ -471,6 +471,11 @@ When sending PRs, please put the new paper at the correct chronological position
   AAAI 2020. [[paper](https://arxiv.org/pdf/2001.05161.pdf)] [[code](https://github.com/LilJing/pose-assisted-collaboration)]
 
 - 🏃
+  **Coordinate-aligned Multi-camera Collaboration for Active Multi-object Tracking**.
+  *Zeyu Fang\*, Jian Zhao\*, Mingyu Yang, Wengang Zhou, Zhenbo Lu, Houqiang Li*.
+  Arxiv 2022. [[paper](https://arxiv.org/abs/2202.10881)]
+
+- 🏃
   **Proactive Multi-Camera Collaboration for 3D Human Pose Estimation**.
   *Hai Ci\*, Mickel Liu\*, Xuehai Pan\*, Fangwei Zhong, Yizhou Wang*.
   ICLR 2023. [[paper](https://openreview.net/pdf?id=CPIy9TWFYBG)] [[project](https://sites.google.com/view/active3dpose)]
