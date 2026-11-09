@@ -287,6 +287,11 @@ When sending PRs, please put the new paper at the correct chronological position
   **UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI**.
   *Fangwei Zhong, Kui Wu, Churan Wang, Hao Chen, Hai Ci, Zhoujun Li, Yizhou Wang*.
   ICCV 2025. [[paper](https://arxiv.org/abs/2412.20977)] [[project](http://unrealzoo.site/)]
+- 🏃 🔍
+  **EASE: Embodied Active Event Perception via Self-Supervised Energy Minimization**.
+  *Zhou Chen, Sanjoy Kundu, Harsimran S. Baweja, Sathyanarayanan N. Aakur*.
+  IEEE Robotics and Automation Letters 2025. [[paper](https://arxiv.org/abs/2506.17516)]
+
 - 📊 🏃
   **EmbRACE-3K: Embodied Reasoning and Action in Complex Environments**.
   *Mingxian Lin, Wei Huang, Yitang Li, Chengjie Jiang, Kui Wu, Fangwei Zhong, Shengju Qian, Xin Wang, Xiaojuan Qi*.
