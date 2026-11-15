@@ -513,3 +513,8 @@ When sending PRs, please put the new paper at the correct chronological position
   **Adapting Agricultural Virtual Environments in Game Engines to Improve HPC Accessibility**.
   *Dirk Norbert Baker, Felix Bauer, Andrea Schnepf, Hanno Scharr, Morris Riedel, Jens Henrik Göbbert, Ebba Hvannberg*.
   [[paper](https://opinvisindi.is/bitstream/handle/20.500.11815/4936/submission.pdf?sequence=1&isAllowed=y)]
+
+- 🏃
+  **SituRecBench: Evaluating Frontier Models as Situated Recommendation Assistants in 3D Environments**.
+  *Jingtong Yang, Dongding Lin, Jian Wang, Wenjie Li*.
+  NeurIPS 2026 Evaluations and Datasets Track. [[paper](https://arxiv.org/abs/2611.10349)]
