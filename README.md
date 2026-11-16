@@ -496,6 +496,11 @@ When sending PRs, please put the new paper at the correct chronological position
   *Youndo Do, Marc Zebrowitz, Jackson Stahl, Fan Zhang*.
   Arxiv 2024. [[paper](https://arxiv.org/abs/2410.09213)]
 
+- 🔍 🏃
+  **iFAN Ecosystem: A Unified AI, Digital Twin, Cyber-Physical Security, and Robotics Environment for Advanced Nuclear Simulation and Operations**.
+  *Youndo Do, Chad Meece, Marc Zebrowitz, Spencer Banks, Myeongjun Choi, Xiaoxu Diao, Kai Tan, Michael Doran, Jason Reed, Fan Zhang*.
+  Arxiv 2026. [[paper](https://arxiv.org/abs/2601.19234)]
+
 - 📊
   **A scalable pipeline to create synthetic datasets from functional–structural plant models for deep learning**.
   *Dirk Norbert Baker, Felix Maximilian Bauer, Mona Giraud, Andrea Schnepf, Jens Henrik Göbbert, Hanno Scharr, Ebba Hvannberg, Morris Riedel*.
