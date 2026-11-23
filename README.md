@@ -407,6 +407,11 @@ When sending PRs, please put the new paper at the correct chronological position
   Arxiv 2026. [[paper](https://arxiv.org/abs/2610.09294)] [[code](https://github.com/XTRose29/RT-SAFE)] [[project](https://xtrose29.github.io/RT-SAFE/)]
 
 - 📊 🏃
+  **DuoCook: An Overcooked-Inspired Benchmark for Visual Planning and Coordination**.
+  *Ziyi Jiao, Heng Zhang, Drishti Regmi, Xiaokang Ye, Lianhui Qin, Peter Yichen Chen*.
+  Arxiv 2026. [[paper](https://arxiv.org/abs/2610.31511)]
+
+- 📊 🏃
   **UAV-Flow++: A Unified Suite for Benchmarking and Learning Language-Guided UAV Flight**.
   *Donglin Yang, Xiangyu Wang, Yu Zhong, Wenhao Zheng, Zihan Ding, Yue Liao, Hongsheng Li, Ke Xu, Si Liu*.
   Arxiv 2026. [[paper](https://arxiv.org/abs/2611.17163)]
