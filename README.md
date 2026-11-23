@@ -396,10 +396,10 @@ When sending PRs, please put the new paper at the correct chronological position
   *Xiangyi Zheng, Xiangyu Wang, Qinan Liao, Zimu Tang, Yue Liao, Dongyue Lyu, Guodong Wang, Junjie Liu, Si Liu*.
   Arxiv 2026. [[paper](https://arxiv.org/abs/2606.06836)]
 
-- 🔍
-  **PIVOT: Perception-aware Independent Viewpoint Online Optimization**.
-  *Yuyang Chen, Shekoufeh Sadeghi, Charuvahan Adhivarahan, Elton Lemos, Chen Wang, Sanjeev J. Koppal, Karthik Dantu*.
-  Arxiv 2026. [[paper](https://arxiv.org/abs/2609.19510)] [[code](https://github.com/droneslab/PIVOT)] [[project](https://droneslab.github.io/PIVOT/)]
+- 📊 🏃
+  **DeliveryGym: An RL Environment for Long-Horizon Embodied Agent Planning with Adaptive Curriculum**.
+  *Haoqiang Kang, Yiming Zhang, Yiyang Guo, Chuying Li, Jianzhi Shen, Tianruo Rose Xu, Xiaokang Ye, Lianhui Qin*.
+  Arxiv 2026. [[paper](https://arxiv.org/abs/2609.19801)]
 
 - 🔍 🏃
   **RT-Safe: Benchmarking Agent Safety in Real-Time Embodied Environment**.
