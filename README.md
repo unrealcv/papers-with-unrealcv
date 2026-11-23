@@ -293,6 +293,10 @@ When sending PRs, please put the new paper at the correct chronological position
 ## <a name="embodied-vision"></a> Embodied Vision
 
 ### <a name="general-simulation"></a> General Simulation/Datasets
+- 🏃
+  **Hierarchical Episodic Control**.
+  *Rong Feng Zhou, Zhisheng Zhang, Yuan Wang*.
+  Applied Sciences 2023. [[paper](https://doi.org/10.3390/app132011544)]
 - 🏃 📊 🔍 
   **UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI**.
   *Fangwei Zhong, Kui Wu, Churan Wang, Hao Chen, Hai Ci, Zhoujun Li, Yizhou Wang*.
@@ -472,6 +476,11 @@ When sending PRs, please put the new paper at the correct chronological position
   **Empowering Embodied Visual Tracking with Visual Foundation Models and Offline RL**.
   *Fangwei Zhong, Kui Wu*, Hai Ci, Churan Wang, Hao Chen*.
   ECCV 2024. [[paper](https://arxiv.org/pdf/2404.09857)] [[code](https://github.com/UnrealTracking/Offline_RL_Active_Tracking)]
+
+- 🏃
+  **CAMAOT: Channel-Aware Multi-Camera Active Object Tracking System**.
+  *Maolong Yin, Bin Guo, Zhuo Sun, Lei Wu, Zhaotie Hao, Zhiwen Yu*.
+  ECAI 2024. [[paper](https://doi.org/10.3233/faia240630)]
 
 - 🏃
   **VLM Can Be a Good Assistant: Enhancing Embodied Visual Tracking with Self-Improving Vision-Language Models**.
