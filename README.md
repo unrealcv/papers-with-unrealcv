@@ -83,6 +83,11 @@ When sending PRs, please put the new paper at the correct chronological position
   *Debora Russo, Nicola Mazzocca, Valeria Vittorini*.
   ACM Multimedia 2025. [[paper](https://dl.acm.org/doi/10.1145/3746027.3758314)]
 
+- 📊 🔍
+  **SpaRRTa: A Synthetic Benchmark for Evaluating Spatial Intelligence in Visual Foundation Models**.
+  *Turhan Can Kargin, Wojciech Jasiński, Adam Pardyl, Bartosz Zieliński, Marcin Przewięźlikowski*.
+  International Journal of Computer Vision (IJCV) 2026. [[paper](https://doi.org/10.1007/s11263-026-03112-7)] [[arXiv](https://arxiv.org/abs/2601.11729)]
+
 ### <a name="text-detection"></a> Text Detection and Recognition
 - 📊
   **UnrealText: Synthesizing Realistic Scene Text Images from the Unreal World**.
@@ -268,6 +273,11 @@ When sending PRs, please put the new paper at the correct chronological position
   *Kyuho Bae, Andre Ivan, Hajime Nagahara, In Kyu Park*.
   Arxiv 2019. [[paper](https://arxiv.org/abs/1912.10687)]
 
+- 📊
+  **SolarRenderer: Few-Step Generative Reference Rendering**.
+  *Guian Fang, Shengju Qian, Dongyue Lu, Junchao Huang, Lutao Jiang, Xin Eric Wang, Yiren Song, Li Jiang, Mike Zheng Shou*.
+  Arxiv 2026. [[paper](https://arxiv.org/abs/2610.28630)] [[code](https://github.com/Enderfga/SolarRenderer)] [[project](https://enderfga.cn/SolarRenderer)]
+
 ### <a name="event"></a> Event Camera
 - 📊
   **ESIM: an Open Event Camera Simulator**.
@@ -391,6 +401,11 @@ When sending PRs, please put the new paper at the correct chronological position
   **RT-Safe: Benchmarking Agent Safety in Real-Time Embodied Environment**.
   *Tianruo Rose Xu, Jiawei Ren, Yichi Yang, Zhaoxu Zheng, Lianhui Qin*.
   Arxiv 2026. [[paper](https://arxiv.org/abs/2610.09294)] [[code](https://github.com/XTRose29/RT-SAFE)] [[project](https://xtrose29.github.io/RT-SAFE/)]
+
+- 📊 🏃
+  **UAV-Flow++: A Unified Suite for Benchmarking and Learning Language-Guided UAV Flight**.
+  *Donglin Yang, Xiangyu Wang, Yu Zhong, Wenhao Zheng, Zihan Ding, Yue Liao, Hongsheng Li, Ke Xu, Si Liu*.
+  Arxiv 2026. [[paper](https://arxiv.org/abs/2611.17163)]
 
 ### <a name="active-tracking"></a> Active Object Tracking
 - 🏃 
