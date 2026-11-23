@@ -297,6 +297,10 @@ When sending PRs, please put the new paper at the correct chronological position
   **UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI**.
   *Fangwei Zhong, Kui Wu, Churan Wang, Hao Chen, Hai Ci, Zhoujun Li, Yizhou Wang*.
   ICCV 2025. [[paper](https://arxiv.org/abs/2412.20977)] [[project](http://unrealzoo.site/)]
+- 🏃
+  **UBG: An Unreal BattleGround Benchmark With Object-Aware Hierarchical Proximal Policy Optimization**.
+  *Longyu Niu, Baihui Li, Xingjian Fan, Hao Fang, Jun Li, Junliang Xing, Jun Wan, Zhen Lei*.
+  IEEE Transactions on Neural Networks and Learning Systems 2025. [[paper](https://doi.org/10.1109/tnnls.2025.3567001)]
 - 🏃 🔍
   **EASE: Embodied Active Event Perception via Self-Supervised Energy Minimization**.
   *Zhou Chen, Sanjoy Kundu, Harsimran S. Baweja, Sathyanarayanan N. Aakur*.
