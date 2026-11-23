@@ -327,6 +327,11 @@ When sending PRs, please put the new paper at the correct chronological position
   *Haocheng Sun, Mulai Tan*.
   Arxiv 2026. [[paper](https://arxiv.org/abs/2608.25419)] [[code](https://github.com/lizi-Margin/bvr_sim)]
 
+- 📊 🔍
+  **Non-penetrating World Models**.
+  *Yuhang Dai, Yinwei Wu, Ziyue Lin, Han Ji, Xingyi Yang*.
+  Preprint 2026. [[code](https://github.com/yuhangdai427/NoPeWorld)] [[project](https://nopeworld.github.io/)]
+
 ### <a name="visual-navigation"></a> Visual Navigation
 
 - 🏃
@@ -376,6 +381,16 @@ When sending PRs, please put the new paper at the correct chronological position
   **Think Like a Pilot: Fine-Grained Long-Horizon UAV Navigation**.
   *Xiangyi Zheng, Xiangyu Wang, Qinan Liao, Zimu Tang, Yue Liao, Dongyue Lyu, Guodong Wang, Junjie Liu, Si Liu*.
   Arxiv 2026. [[paper](https://arxiv.org/abs/2606.06836)]
+
+- 🔍
+  **PIVOT: Perception-aware Independent Viewpoint Online Optimization**.
+  *Yuyang Chen, Shekoufeh Sadeghi, Charuvahan Adhivarahan, Elton Lemos, Chen Wang, Sanjeev J. Koppal, Karthik Dantu*.
+  Arxiv 2026. [[paper](https://arxiv.org/abs/2609.19510)] [[code](https://github.com/droneslab/PIVOT)] [[project](https://droneslab.github.io/PIVOT/)]
+
+- 🔍 🏃
+  **RT-Safe: Benchmarking Agent Safety in Real-Time Embodied Environment**.
+  *Tianruo Rose Xu, Jiawei Ren, Yichi Yang, Zhaoxu Zheng, Lianhui Qin*.
+  Arxiv 2026. [[paper](https://arxiv.org/abs/2610.09294)] [[code](https://github.com/XTRose29/RT-SAFE)] [[project](https://xtrose29.github.io/RT-SAFE/)]
 
 ### <a name="active-tracking"></a> Active Object Tracking
 - 🏃 
