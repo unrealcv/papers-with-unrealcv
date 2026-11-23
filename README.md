@@ -386,6 +386,11 @@ When sending PRs, please put the new paper at the correct chronological position
   *Shaofei Cai, Zhancun Mu, Haiwen Xia, Bowei Zhang, Anji Liu, Yitao Liang*.
   Arxiv 2025. [[paper](https://arxiv.org/abs/2507.23698)]
 
+- 🏃
+  **LOVON: Legged Open Vocabulary Object Navigator**.
+  *Daojie Peng, Jiahang Cao, Qiang Zhang, Jun Ma*.
+  IEEE/ASME Transactions on Mechatronics 2026. [[paper](https://arxiv.org/abs/2507.06747)]
+
 - 🏃 🔍
   **WorldVLN: Autoregressive World Action Model for Aerial Vision-Language Navigation**.
   *Baining Zhao, Jiacheng Xu, Weicheng Feng, Xin Zhang, Zhaolu Wang, Haoyang Wang, Shilong Ji, Ziyou Wang, Jianjie Fang, Zhiheng Zheng, Weichen Zhang, Yu Shang, Wei Wu, Chen Gao, Xinlei Chen, Yong Li*.
